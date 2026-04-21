@@ -19,6 +19,8 @@
 
 ## Features :-)
 
+- No download speed throttle
+- Audio extraction download
 - Download from youtube in chromium based browsers (Chrome, Brave..)
 - <img width="226" alt="0415" src="https://github.com/user-attachments/assets/0c816e84-23d6-4cf9-bca0-5adab59fab27" />
 
@@ -26,6 +28,12 @@
 - Download videos from any website
 - Download multiple videos at once
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/9841d121-5bea-4568-9338-1f840ebd1d36" />
+
+- No quality restrictions
+<img width="207" alt="image" src="https://github.com/user-attachments/assets/54f8ce55-7fdc-409b-b02b-d22b61935aea" />
+
+
+
 
 ### Supported Platforms & Examples
 
@@ -49,6 +57,10 @@
 
 ## Roadmap
 - [x] Youtube download enabled for chromium.
+- [x] Audio extraction download
+- [x] No more throttle
+- [x] No quality restrictions
+
 
 
 ## 📥 Installation
