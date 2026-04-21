@@ -19,7 +19,13 @@
 
 ## Features :-)
 
+- Mkv format (3 dots -> download as to download as mkv)
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/2d6875c1-82d7-48ea-9ddf-0a3bb512e9ce" />
+
 - No download speed throttle
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/64ad3c27-e2a2-4b32-83c7-19c3cf456f3a" />
+
 - Audio extraction download
 - Download from youtube in chromium based browsers (Chrome, Brave..)
 - <img width="226" alt="0415" src="https://github.com/user-attachments/assets/0c816e84-23d6-4cf9-bca0-5adab59fab27" />
