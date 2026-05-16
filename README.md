@@ -80,7 +80,6 @@
 <img width="184" alt="image" src="https://github.com/user-attachments/assets/14b1ef37-163a-4570-a1a1-a3409baa3f57" />
 
 5. Select the extracted folder
-6. ALSO AFTER EXTRACING YOU NEED TO EXTRACT THE ZIP FILE INSIDE OF '_localse'
 
 # Thats it
 
