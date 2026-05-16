@@ -73,56 +73,14 @@
 
 ### Quick install
 
-1. Download the zip from [here](https://gofile.io/d/HjKwSd)
+1. Clone the repo
 2. Extrac it anywhere
 3. In your browser go to extensions
 4. Click load unpacked
 <img width="184" alt="image" src="https://github.com/user-attachments/assets/14b1ef37-163a-4570-a1a1-a3409baa3f57" />
 
 5. Select the extracted folder
-6. Go into it once till you see something like this
-
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/6188c304-3135-41ce-8a13-bbb8e3e794b4" />
-
-   
-8. Refresh your extensions
-   
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/23a2c1ad-3d24-47c0-9326-82765e9f5b28" />
-
-### Other way (only requires this repositorys main.js)
-
-- Have Video download helper installed
-- MUST BE THE SAME VERSION AS THE ``main.js`` eg. from releases
-- 
-### Find Your Extension Folder
-
-| Browser | Path |
-|---------|------|
-| **Brave** | `C:\Users\YOURUSER\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Extensions\` |
-| **Chrome** | `C:\Users\YOURUSER\AppData\Local\Google\Chrome\User Data\Default\Extensions\` |
-| **Edge** | `C:\Users\YOURUSER\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\` |
-| **Opera** | `C:\Users\YOURUSER\AppData\Roaming\Opera Software\Opera Stable\Extensions\` |
-
->  Inside the `Extensions` folder, you'll see folders with long ID names. Click one the one matching with the id within your browsers extension.
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/b253f5d3-69d9-404a-962b-4e9f2e78c5a1" />
-<img width="398" height="321" alt="image" src="https://github.com/user-attachments/assets/02f3054f-b312-4aac-8c37-217744f6e663" />
-
-> Open the folder within and  go to ``/service``
-<img width="363" alt="image" src="https://github.com/user-attachments/assets/3a8de33a-3387-40fa-83a1-7b9abb61726d" />
-
-## Replace main.js
-
-1. **Download** the `main.js` from the [**Releases**](https://github.com/levox00/Vidyload/releases) tab
-2. **Copy and paste** the new `main.js` into the folder
-3. Click **Overwrite** when prompted
-
-## Reload the Extension
-
-1. Go back to `brave://extensions/`
-2. Find **Video Download Helper**
-3. Click the **🔄 Reload** button on the extension card
-
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/1c520ee0-9c68-491c-96c8-3688f9260795" />
+6. ALSO AFTER EXTRACING YOU NEED TO EXTRACT THE ZIP FILE INSIDE OF '_localse'
 
 # Thats it
 
