@@ -1,1 +1,380 @@
-
+{
+   "account_status": {
+      "message": "وضعیت"
+   },
+   "account_status_premium": {
+      "message": "($1) نسخه ویژه"
+   },
+   "account_title": {
+      "message": "حساب کاربری"
+   },
+   "always_copy_url": {
+      "message": "همیشه لینک را کپی کن"
+   },
+   "always_download_as_menu": {
+      "message": "...همیشه دانلود به صورت"
+   },
+   "appDesc": {
+      "message": "دانلود ویدیوها از وب. محتوای مورد علاقه‌تان را سریع و آسان ذخیره کنید"
+   },
+   "appearance_title": {
+      "message": "نمای ظاهری"
+   },
+   "audio_only_for_this_website": {
+      "message": "همیشه فقط صدا برای این سایت"
+   },
+   "back": {
+      "message": "بازگشت"
+   },
+   "bad_download_subdirectory_warning": {
+      "message": "زیرپوشه‌ای که مشخص کردید معتبر نیست"
+   },
+   "behavior_title": {
+      "message": "عملکرد"
+   },
+   "cancel": {
+      "message": "لغو"
+   },
+   "change_browser_download_directory": {
+      "message": "تغییر پوشه دانلود مرورگر"
+   },
+   "change_saveas_setting": {
+      "message": "تغییر تنظیمات"
+   },
+   "clear_downloaded_tooltip": {
+      "message": "پاک کردن دانلودهای تکمیل‌شده"
+   },
+   "clear_history": {
+      "message": "پاک‌ کردن تاریخچه"
+   },
+   "complete_title": {
+      "message": "تکمیل شد"
+   },
+   "controls_title": {
+      "message": "ابزارهای کنترلی"
+   },
+   "copy_to_clipboard": {
+      "message": "کپی اطلاعات به کلیپ‌بورد"
+   },
+   "copy_url": {
+      "message": "کپی لینک"
+   },
+   "delete_file_button_tooltip": {
+      "message": "حذف فایل"
+   },
+   "details": {
+      "message": "جزئیات"
+   },
+   "disable_history": {
+      "message": "تاریچه من را ذخیره نکن"
+   },
+   "download_as_button_and_menu": {
+      "message": "...دانلود بصورت"
+   },
+   "download_audio_and_video_menu": {
+      "message": "دانلود صدا و ویدیو"
+   },
+   "download_audio_button": {
+      "message": "صدا"
+   },
+   "download_audio_only_menu": {
+      "message": "دانلود صدا"
+   },
+   "download_button": {
+      "message": "دانلود"
+   },
+   "download_directory_button_tooltip": {
+      "message": "نمایش پوشه دانلود"
+   },
+   "download_directory_description": {
+      "message": "ویدیوها در پوشه دانلود پیش‌فرض مرورگر ذخیره می‌شوند. شما همچنین می‌توانید یک زیرپوشه مشخص کنید. پوشه‌های دانلود مخصوص هر سایت را می‌توان با ابزار SmartNaming تعیین کرد"
+   },
+   "download_directory_title": {
+      "message": "پوشه دانلود"
+   },
+   "download_failed": {
+      "message": "دانلود ناموفق بود"
+   },
+   "download_failed_description": {
+      "message": "با عرض پوزش، در دانلود فایل مورد نظر موفق نبودیم. همواره می‌کوشیم تا از وب‌سایت‌های گوناگون پشتیبانی کنیم. در صورت امکان این خطا را گزارش کنید. بسیار  سپاسگزار خواهیم بود (گزارش بصورت ناشناس است!)"
+   },
+   "download_interrupted": {
+      "message": "دانلود ناتمام ماند"
+   },
+   "download_interrupted_description": {
+      "message": "فایل شما با موفقیت دانلود شد، اما به دلیل مشکل شبکه، ممکن است فایل کوتاه‌تر از حد انتظار باشد.  می‌کوشیم تا از وب‌سایت‌های گوناگون پشتیبانی کنیم. در صورت امکان این خطا را گزارش کنید. بسیار  سپاسگزار خواهیم بود (گزارش بصورت ناشناس است!)"
+   },
+   "download_subdirectory": {
+      "message": "زیرپوشه دانلود"
+   },
+   "download_title": {
+      "message": "دانلودها"
+   },
+   "download_with_drm_failed_description": {
+      "message": "مشکلی پیش آمد. به نظر می‌رسد این ویدئو دارای محافظت است. ویدئوهای دارای محافظت توسط این افزونه پشتیبانی نمی‌شوند. خطای DRM"
+   },
+   "enable_history": {
+      "message": "فعال‌سازی تاریخچه"
+   },
+   "font_size_default": {
+      "message": "پیش‌فرض"
+   },
+   "font_size_large": {
+      "message": "بزرگ"
+   },
+   "font_size_title": {
+      "message": "اندازه متن"
+   },
+   "font_size_verylarge": {
+      "message": "خیلی بزرگ"
+   },
+   "free_account": {
+      "message": "نسخه رایگان"
+   },
+   "get_premium_button": {
+      "message": "ارتقا به ویژه"
+   },
+   "help_button_tooltip": {
+      "message": "راهنما"
+   },
+   "hide_complete_button": {
+      "message": "پنهان"
+   },
+   "history_button_tooltip": {
+      "message": "نمایش تاریخچه دانلود"
+   },
+   "history_limit": {
+      "message": "تاریخچه دانلود پس از چند روز فراموش شود؟"
+   },
+   "history_title": {
+      "message": "تاریخچه دانلود"
+   },
+   "history_warning": {
+      "message": "ما تاریخچه دانلود شما را ثبت نمی‌کنیم. آیا می‌خواهید که تاریخچه دانلود شما را ذخیره کنیم؟"
+   },
+   "history_warning_2": {
+      "message": "نگران نباشید، همه چیز فقط روی دستگاه شما باقی می‌ماند. ما به حریم خصوصی شما احترام می‌گذاریم"
+   },
+   "leave_review_button": {
+      "message": "ثبت نظر"
+   },
+   "leave_review_description": {
+      "message": "امیدواریم از استفاده از این افزونه راضی بوده باشید :) مایل به نوشتن یک نظر مثبت در سایت افزونه هستید؟"
+   },
+   "max_parallel_downloads": {
+      "message": "حداکثر دانلود همزمان"
+   },
+   "my_account_button": {
+      "message": "حساب کاربری من"
+   },
+   "no_downloads_yet": {
+      "message": "در حال حاضر موردی وجود ندارد"
+   },
+   "no_youtube": {
+      "message": "دانلود از یوتیوب مجاز نیست"
+   },
+   "no_youtube_description": {
+      "message": "متأسفانه فروشگاه وب گوگل کروم اجازه نمی‌دهد افزونه‌هایی برای دانلود ویدیوهای یوتیوب منتشر شوند، بنابراین نتوانستیم این قابلیت را در نسخه کروم افزونه قرار دهیم"
+   },
+   "no_youtube_description_2": {
+      "message": "لطفاً از فایرفاکس یا مایکروسافت اج استفاده کنید"
+   },
+   "nomedia_description": {
+      "message": "برای پیدا کردن رسانه، ویدیو را پخش کنید (و در صورت وجود تبلیغ، از آن رد شوید). یا در صورت پیدا نشدن، گزارش دهید"
+   },
+   "nomedia_reload_button": {
+      "message": "شناسایی اجباری"
+   },
+   "nomedia_reload_button_tooltip": {
+      "message": "بارگذاری مجدد صفحه (پاک کردن کوکی‌ها)"
+   },
+   "nomedia_title": {
+      "message": "رسانه‌ای که به دنبالش هستید را نمی‌بینید؟"
+   },
+   "one_hundred_downloads_title": {
+      "message": "شما ۱۰۰ ویدیو دانلود کرده‌اید"
+   },
+   "open_source_tab_button_tooltip": {
+      "message": "باز کردن برگه منبع"
+   },
+   "panel_position_title": {
+      "message": "موقعیت پنل"
+   },
+   "play": {
+      "message": "پخش"
+   },
+   "popup_size_big": {
+      "message": "بزرگ"
+   },
+   "popup_size_medium": {
+      "message": "متوسط"
+   },
+   "popup_size_small": {
+      "message": "کوچک"
+   },
+   "popup_size_title": {
+      "message": "اندازه پنجره"
+   },
+   "prefer_mkv": {
+      "message": "دانلود شود MKV در صورت امکان، با فرمت"
+   },
+   "prefer_original_audio": {
+      "message": "اولویت با صدای اصلی"
+   },
+   "prefered_quality": {
+      "message": "کیفیت پیش‌فرض ویدیو"
+   },
+   "prefered_quality_1080p": {
+      "message": "کیفیت 1080 (تنظیم پیش‌فرض مناسب)"
+   },
+   "prefered_quality_480p": {
+      "message": "کیفیت 480 (دانلود سریع‌تر، کیفیت پایین‌تر)"
+   },
+   "prefered_quality_720p": {
+      "message": "کیفیت 720 (دانلود سریع، کیفیت پایین)"
+   },
+   "prefered_quality_highest": {
+      "message": "حداکثر کیفیت (دانلود کند، کیفیت بالا)"
+   },
+   "premium_all_required_description": {
+      "message": "بدون اشتراک ویژه، دانلود تنها ۲ ساعت پس از دانلود قبلی امکان‌پذیر است"
+   },
+   "premium_hls_required_description": {
+      "message": "بدون داشتن اشتراک ویژه، فقط می‌توانید هر دو ساعت یکبار ویدئوهایی با این فرمت‌ها دریافت کنید: HLS و MPD"
+   },
+   "premium_required": {
+      "message": "نیاز به اشتراک ویژه"
+   },
+   "premium_yt_required_description": {
+      "message": "بدون اشتراک ویژه، دانلود از یوتیوب تنها ۲ ساعت پس از دانلود قبلی امکان‌پذیر است"
+   },
+   "preview_mode_image": {
+      "message": "تصویر"
+   },
+   "preview_mode_none": {
+      "message": "غیرفعال"
+   },
+   "preview_mode_title": {
+      "message": "پیش‌نمایش رسانه"
+   },
+   "preview_mode_video": {
+      "message": "پیش‌نمایش کوتاه ویدیو"
+   },
+   "private_browsing_button": {
+      "message": "ویرایش تنظیمات حالت ناشناس"
+   },
+   "private_browsing_notifications": {
+      "message": "نمایش اعلان برای دانلودهای خصوصی"
+   },
+   "private_browsing_title": {
+      "message": "حالت ناشناس"
+   },
+   "private_browsing_warning": {
+      "message": "افزونه در پنجره‌های خصوصی/ناشناس فعال نیست. برای استفاده در این حالت باید این گزینه را به‌صورت دستی روشن کنید (این کار ضروری نیست)"
+   },
+   "rename_short": {
+      "message": "تغییر نام"
+   },
+   "report": {
+      "message": "گزارش"
+   },
+   "reported_thankyou": {
+      "message": "سپاس از شما"
+   },
+   "reporting": {
+      "message": "...در حال گزارش"
+   },
+   "reset_settings": {
+      "message": "بازنشانی تنظیمات"
+   },
+   "restart_addon": {
+      "message": "بارگذاری مجدد افزونه"
+   },
+   "restore_purchase_button": {
+      "message": "بازیابی خرید"
+   },
+   "retry_download_button_tooltip": {
+      "message": "دانلود مجدد"
+   },
+   "rm_notifications_all": {
+      "message": "بستن همه اعلان ها"
+   },
+   "saveas_detected_warning": {
+      "message": "تشخیص دادیم که مرورگر شما بعد از اتمام دانلود، پنجره «ذخیره به‌عنوان» را نمایش میدهد. پیشنهاد میکنیم این گزینه را در تنظیمات مرورگر غیرفعال کنید"
+   },
+   "setting_button_tooltip": {
+      "message": "تنظیمات"
+   },
+   "settings_history_title": {
+      "message": "تاریخچه"
+   },
+   "show_all_history_button": {
+      "message": "نمایش همه"
+   },
+   "show_in_context_menu": {
+      "message": "دسترسی به فرمان‌ها از طریق کلیک راست روی صفحه (اضافه شدن به کلیک راست که در صورتی که در صفحه وب کلیک راست کنید نمایش داده می شود)"
+   },
+   "show_in_popup_button_tooltip": {
+      "message": "نمایش در پنجره بازشونده"
+   },
+   "show_in_sidebar_button_tooltip": {
+      "message": "نمایش در نوار کناری"
+   },
+   "show_nomedia_button": {
+      "message": "ویدیو وجود ندارد؟"
+   },
+   "show_nomedia_button_tooltip": {
+      "message": "اگر ویدیوی خود را پیدا نمی‌کنید، اینجا کلیک کنید"
+   },
+   "show_notification": {
+      "message": "نمایش اعلان پس از تکمیل دانلود"
+   },
+   "stop": {
+      "message": "توقف"
+   },
+   "theme_dark": {
+      "message": "تاریک"
+   },
+   "theme_light": {
+      "message": "روشن"
+   },
+   "theme_system": {
+      "message": "پیش‌فرض سیستم"
+   },
+   "theme_title": {
+      "message": "پوسته"
+   },
+   "throttle_youtube": {
+      "message": "محدود کردن سرعت یوتیوب (دانلود کندتر، اما احتمال مسدود شدن کمتر)"
+   },
+   "transient_history_description": {
+      "message": "نمایش دانلودهای کامل شده در پنل"
+   },
+   "translate_button_tooltip": {
+      "message": "کمک برای ترجمه"
+   },
+   "use_popup": {
+      "message": "نمایش در پنجره بازشونده"
+   },
+   "use_sidebar": {
+      "message": "نمایش در نوار کناری"
+   },
+   "version_title": {
+      "message": "نسخه"
+   },
+   "video_not_playing_button_tooltip": {
+      "message": "ویدیو پخش نمی‌شود؟"
+   },
+   "waiting_for_media": {
+      "message": "...در انتظار دریافت رسانه"
+   },
+   "warn_drm_tooltip": {
+      "message": "شناسایی شد DRM"
+   },
+   "youtube_too_many_downloads": {
+      "message": "ای داد بیداد، دسترسی به یوتیوب مسدود شده است"
+   },
+   "youtube_too_many_downloads_description": {
+      "message": "گاهی یوتیوب محدودیتی برای تعداد ویدیوهایی که می‌توان درخواست کرد اعمال می‌کند. متأسفانه کاری از دست ما ساخته نیست. لطفاً بعداً دوباره امتحان کنید"
+   }
+}
