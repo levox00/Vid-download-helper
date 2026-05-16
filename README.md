@@ -2,9 +2,10 @@
 
 <img width="500" alt="cccc-removebg-preview" src="https://github.com/user-attachments/assets/7fb9ea9c-8e41-4f75-b7f8-ec7cb544c7f9" />
 
+<img alt="Discord" src="https://img.shields.io/discord/1505226281992716319?style=for-the-badge&logo=discord&color=ff57fc&link=https%3A%2F%2Fdiscord.gg%2Ff4QRk2xh9Y">
 
 ## Download any video from the web. Including hls, dash and cmaf streaming protocols.
-
+<a href="https://discord.gg/CHkQYhc5es" target="_blank"><img height=20 src="https://img.shields.io/discord/1504614361640075525" /></a>
 - Perfect for every after effects/davinci resolve/capcut... editors for downloading video material from various streaming website. (yes aniwatch/9anime/anikai/yt...)
 
 
