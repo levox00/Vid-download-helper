@@ -1,1 +1,344 @@
-
+{
+   "account_status": {
+      "message": "Status"
+   },
+   "account_status_premium": {
+      "message": "Prémium (1$)"
+   },
+   "account_title": {
+      "message": "Účet"
+   },
+   "always_copy_url": {
+      "message": "Vždy kopírovat adresu"
+   },
+   "always_download_as_menu": {
+      "message": "Vždy stáhnout jako..."
+   },
+   "appDesc": {
+      "message": "Stahování videí z webu."
+   },
+   "appearance_title": {
+      "message": "Přizpůsobení"
+   },
+   "audio_only_for_this_website": {
+      "message": "Vždy pouze zvuk pro tuto stránku"
+   },
+   "back": {
+      "message": "Zpět"
+   },
+   "behavior_title": {
+      "message": "Chování"
+   },
+   "cancel": {
+      "message": "Zrušit"
+   },
+   "change_saveas_setting": {
+      "message": "Změnit nastavení"
+   },
+   "clear_downloaded_tooltip": {
+      "message": "Smazat dokončená stahování"
+   },
+   "clear_history": {
+      "message": "Vymazat historii"
+   },
+   "complete_title": {
+      "message": "Hotovo"
+   },
+   "controls_title": {
+      "message": "Ovládání"
+   },
+   "copy_to_clipboard": {
+      "message": "Kopírovat informace do schránky"
+   },
+   "copy_url": {
+      "message": "Skopírovat adresu"
+   },
+   "delete_file_button_tooltip": {
+      "message": "Smazat soubor"
+   },
+   "details": {
+      "message": "Detaily"
+   },
+   "disable_history": {
+      "message": "Nezaznamenávat historii"
+   },
+   "download_as_button_and_menu": {
+      "message": "Stáhnout jako..."
+   },
+   "download_audio_and_video_menu": {
+      "message": "Stáhnout zvuk a video"
+   },
+   "download_audio_button": {
+      "message": "Zvuk"
+   },
+   "download_audio_only_menu": {
+      "message": "Stáhnout zvuk"
+   },
+   "download_button": {
+      "message": "Stáhnout"
+   },
+   "download_directory_button_tooltip": {
+      "message": "Zobrazit stahovací složku"
+   },
+   "download_failed": {
+      "message": "Stahování selhalo"
+   },
+   "download_failed_description": {
+      "message": "Bohužel se nepodařilo stáhnout specifické médium. Snažíme se o podporu co nejvíce webových stránek, proto velmi pomůže, pokud nahlásíte toto selhání (je to anonymní!)."
+   },
+   "download_interrupted": {
+      "message": "Stahování přerušeno"
+   },
+   "download_interrupted_description": {
+      "message": "Během stahování souboru došlo k problému se sítí, takže soubor může být kratší, než očekáváte. Snažíme se o podporu co nejvíce webových stránek, proto velmi pomůže, pokud nahlásíte toto selhání (je to anonymní!)."
+   },
+   "download_title": {
+      "message": "Stahování"
+   },
+   "download_with_drm_failed_description": {
+      "message": "Něco se nepovedlo. Myslíme, že toto video má ochranu DRM. Nepodporujeme videa s DRM."
+   },
+   "enable_history": {
+      "message": "Povolit historii"
+   },
+   "free_account": {
+      "message": "Zdarma"
+   },
+   "get_premium_button": {
+      "message": "Získat prémium"
+   },
+   "hide_complete_button": {
+      "message": "Skrýt"
+   },
+   "history_button_tooltip": {
+      "message": "Zobrazit historii stahování"
+   },
+   "history_limit": {
+      "message": "Zapomenout historii stahování po X dnech"
+   },
+   "history_title": {
+      "message": "Historie stahování"
+   },
+   "history_warning": {
+      "message": "Nezaznamenáváme vaši historii stahování. Chcete, aby si Video DownloadHelper pamatoval vaši historii stahování?"
+   },
+   "history_warning_2": {
+      "message": "Buďte v klidu, všechno zůstává na vašem počítači. Ceníme si vašeho soukromí."
+   },
+   "leave_review_button": {
+      "message": "Zanechat recenzi"
+   },
+   "leave_review_description": {
+      "message": "Jsme rádi, že si užíváte Video DownloadHelper :) Nechtěl byste napsat hezkou recenzi na stránkách obchodu s addony? "
+   },
+   "max_parallel_downloads": {
+      "message": "Maximální počet souběžných stahování"
+   },
+   "my_account_button": {
+      "message": "Můj účet"
+   },
+   "no_downloads_yet": {
+      "message": "Zatím žádné záznamy"
+   },
+   "no_youtube": {
+      "message": "Stahování z YouTube není povoleno"
+   },
+   "no_youtube_description": {
+      "message": "Bohužel Chrome Web Store nepovoluje rozšíření, která stahují YouTube videa, takže jsme nemohli tuto možnost do verze pro Chrome vložit."
+   },
+   "no_youtube_description_2": {
+      "message": "Prosím použijte Firefox nebo Microsoft Edge"
+   },
+   "nomedia_description": {
+      "message": "Spusťte video (a přeskočte případné reklamy), abyste ulehčili detekci médií. Případně reportujte chybějící média."
+   },
+   "nomedia_reload_button": {
+      "message": "Vynutit detekci"
+   },
+   "nomedia_reload_button_tooltip": {
+      "message": "Vynutit znovunačtení stránky (smazání cookies)"
+   },
+   "nomedia_title": {
+      "message": "Nevidíte média, která hledáte?"
+   },
+   "one_hundred_downloads_title": {
+      "message": "Stáhl jste 100 videí!"
+   },
+   "open_source_tab_button_tooltip": {
+      "message": "Otevřít záložku se zdrojovým kódem"
+   },
+   "panel_position_title": {
+      "message": "Umístění panelu"
+   },
+   "play": {
+      "message": "Přehrát"
+   },
+   "popup_size_big": {
+      "message": "Velké"
+   },
+   "popup_size_medium": {
+      "message": "Střední"
+   },
+   "popup_size_small": {
+      "message": "Malé"
+   },
+   "popup_size_title": {
+      "message": "Velikost okna"
+   },
+   "prefer_mkv": {
+      "message": "Pokud možno stáhnout jako MKV"
+   },
+   "prefer_original_audio": {
+      "message": "Upřednostnit původní zvuk"
+   },
+   "prefered_quality": {
+      "message": "Upřednostňovaná kvalita videa"
+   },
+   "prefered_quality_1080p": {
+      "message": "1080p (slušné výchozí)"
+   },
+   "prefered_quality_720p": {
+      "message": "720p (rychlé stahování, nízké rozlišení)"
+   },
+   "prefered_quality_highest": {
+      "message": "Nejvyšší (pomalé stahování, vysoké rozlišení)"
+   },
+   "premium_hls_required_description": {
+      "message": "Bez prémium statusu mohou být HLS a MPD stahování prováděna nejdříve po 2 hodinách po skončení předchozího stahování."
+   },
+   "premium_required": {
+      "message": "Požadováno prémium"
+   },
+   "premium_yt_required_description": {
+      "message": "Bez prémium statusu musíte počkat 2 hodiny do dalšího stahování."
+   },
+   "preview_mode_image": {
+      "message": "Obraz"
+   },
+   "preview_mode_none": {
+      "message": "Zakázáno"
+   },
+   "preview_mode_title": {
+      "message": "Náhled média"
+   },
+   "preview_mode_video": {
+      "message": "Krátký náhled"
+   },
+   "private_browsing_button": {
+      "message": "Změnit nastavení soukromého procházení"
+   },
+   "private_browsing_notifications": {
+      "message": "Zobrazit oznámení pro soukromá stahování"
+   },
+   "private_browsing_title": {
+      "message": "Soukromé procházení"
+   },
+   "private_browsing_warning": {
+      "message": "Video DownloadHelper není povolen v soukromých/anonymních oknech. Musíte to povolit ručně (není vyžadováno)."
+   },
+   "rename_short": {
+      "message": "Přejmenovat"
+   },
+   "report": {
+      "message": "Report"
+   },
+   "reported_thankyou": {
+      "message": "Dekujeme!"
+   },
+   "reporting": {
+      "message": "Reportování..."
+   },
+   "reset_settings": {
+      "message": "Reset nastavení"
+   },
+   "restart_addon": {
+      "message": "Znovu načíst addon"
+   },
+   "restore_purchase_button": {
+      "message": "Obnovit nákup"
+   },
+   "retry_download_button_tooltip": {
+      "message": "Opakovat stahování"
+   },
+   "rm_notifications_all": {
+      "message": "Smazat všechna oznámení"
+   },
+   "saveas_detected_warning": {
+      "message": "Všimli jsme si, že váš prohlížeč zobrazuje dialog 'Uložit jako', když se dokončí stahování. Doporučujeme zakázat tuto možnost v nastavení vašeho prohlížeče"
+   },
+   "setting_button_tooltip": {
+      "message": "Nastavení"
+   },
+   "settings_history_title": {
+      "message": "Historie"
+   },
+   "show_all_history_button": {
+      "message": "zobrazit všechno"
+   },
+   "show_in_context_menu": {
+      "message": "Umožnit ovládání z kontextové nabídky"
+   },
+   "show_in_popup_button_tooltip": {
+      "message": "Zobrazit v popup okně"
+   },
+   "show_in_sidebar_button_tooltip": {
+      "message": "Zobrazit v bočním panelu"
+   },
+   "show_nomedia_button": {
+      "message": "Žádné video?"
+   },
+   "show_nomedia_button_tooltip": {
+      "message": "Klikněte zde, pokud nemůžete najít vaše video"
+   },
+   "show_notification": {
+      "message": "Změnit nastavení"
+   },
+   "stop": {
+      "message": "Stop"
+   },
+   "theme_dark": {
+      "message": "tmavé"
+   },
+   "theme_light": {
+      "message": "světlé"
+   },
+   "theme_system": {
+      "message": "systémové"
+   },
+   "theme_title": {
+      "message": "Téma"
+   },
+   "throttle_youtube": {
+      "message": "Throttlovat YouTube (pomalejší stahování, ale menší pravděpodobnost zablokování)"
+   },
+   "transient_history_description": {
+      "message": "Zobrazit dokončená stahování v panelu"
+   },
+   "translate_button_tooltip": {
+      "message": "Pomozte s překladem VDH"
+   },
+   "use_popup": {
+      "message": "Zobrazit ve vyskakovacím okně"
+   },
+   "use_sidebar": {
+      "message": "Zobrazit v bočním panelu"
+   },
+   "version_title": {
+      "message": "Verze"
+   },
+   "video_not_playing_button_tooltip": {
+      "message": "Video se nepřehrává?"
+   },
+   "waiting_for_media": {
+      "message": "Čekám na médie"
+   },
+   "warn_drm_tooltip": {
+      "message": "Detekována ochrana DRM"
+   },
+   "youtube_too_many_downloads": {
+      "message": "Kua, zdá se, že YouTube vás blokuje."
+   },
+   "youtube_too_many_downloads_description": {
+      "message": "YouTube občas omezuje počet požadovaných videí. Je to smutné, ale nic s tím nemůžeme udělat. Zkuste to znovu později."
+   }
+}
