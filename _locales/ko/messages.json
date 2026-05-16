@@ -1,0 +1,314 @@
+{
+   "account_status": {
+      "message": "상태"
+   },
+   "account_status_premium": {
+      "message": "프리미엄 사용자"
+   },
+   "account_title": {
+      "message": "계정"
+   },
+   "always_copy_url": {
+      "message": "항상 URL 복사"
+   },
+   "always_download_as_menu": {
+      "message": "항상 다른 이름으로 다운로드…"
+   },
+   "appDesc": {
+      "message": "웹에서 동영상 다운로드."
+   },
+   "appearance_title": {
+      "message": "모양"
+   },
+   "audio_only_for_this_website": {
+      "message": "이 웹사이트에서는 항상 오디오만"
+   },
+   "back": {
+      "message": "뒤로"
+   },
+   "behavior_title": {
+      "message": "동작"
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "change_saveas_setting": {
+      "message": "설정 변경"
+   },
+   "clear_history": {
+      "message": "기록 지우기"
+   },
+   "complete_title": {
+      "message": "완료"
+   },
+   "copy_to_clipboard": {
+      "message": "정보를 클립보드에 복사"
+   },
+   "copy_url": {
+      "message": "URL 복사"
+   },
+   "delete_file_button_tooltip": {
+      "message": "파일 삭제"
+   },
+   "details": {
+      "message": "세부 정보"
+   },
+   "disable_history": {
+      "message": "내 기록을 기억하지 않기"
+   },
+   "download_as_button_and_menu": {
+      "message": "다른 이름으로 다운로드..."
+   },
+   "download_audio_and_video_menu": {
+      "message": "오디오 및 동영상 다운로드"
+   },
+   "download_audio_button": {
+      "message": "오디오"
+   },
+   "download_audio_only_menu": {
+      "message": "오디오만 다운로드"
+   },
+   "download_button": {
+      "message": "다운로드"
+   },
+   "download_directory_button_tooltip": {
+      "message": "다운로드 폴더 표시"
+   },
+   "download_failed": {
+      "message": "다운로드 실패"
+   },
+   "download_failed_description": {
+      "message": "죄송하게도 해당 미디어를 다운로드하는 데 실패했습니다. 저희는 가능한 많은 웹사이트를 지원하기 위해 노력하고 있으므로, 이 오류를 신고해 주시면 큰 도움이 됩니다 (익명입니다!)."
+   },
+   "download_interrupted": {
+      "message": "다운로드 중단됨"
+   },
+   "download_interrupted_description": {
+      "message": "파일을 다운로드하는 데 성공했지만, 네트워크 문제가 발생하여 파일이 예상보다 짧을 수 있습니다. 저희는 가능한 많은 웹사이트를 지원하기 위해 노력하고 있으므로, 이 문제를 신고해 주시면 큰 도움이 됩니다 (익명입니다!)."
+   },
+   "download_title": {
+      "message": "다운로드"
+   },
+   "download_with_drm_failed_description": {
+      "message": "뭔가 제대로 작동하지 않았습니다. 그리고 이 동영상에는 DRM이 있는 것 같습니다. 저희는 DRM이 있는 동영상을 지원하지 않습니다."
+   },
+   "enable_history": {
+      "message": "기록 활성화"
+   },
+   "free_account": {
+      "message": "무료 플랜"
+   },
+   "get_premium_button": {
+      "message": "프리미엄 얻기"
+   },
+   "hide_complete_button": {
+      "message": "숨기기"
+   },
+   "history_button_tooltip": {
+      "message": "다운로드 기록 보기"
+   },
+   "history_limit": {
+      "message": "X일 후 다운로드 기록 삭제"
+   },
+   "history_title": {
+      "message": "다운로드 기록"
+   },
+   "history_warning": {
+      "message": "저희는 귀하의 다운로드 기록을 저장하지 않습니다. Video DownloadHelper가 귀하의 다운로드 기록을 기억하도록 하시겠습니까?"
+   },
+   "history_warning_2": {
+      "message": "걱정하지 마세요, 모든 것은 귀하의 기기에만 저장됩니다. 저희는 귀하의 프라이버시를 소중히 여깁니다."
+   },
+   "leave_review_button": {
+      "message": "리뷰 남기기"
+   },
+   "leave_review_description": {
+      "message": "Video DownloadHelper를 즐겁게 사용하시길 바랍니다 :) 애드온 웹사이트에 좋은 리뷰를 남겨주시겠어요?"
+   },
+   "max_parallel_downloads": {
+      "message": "최대 동시 다운로드 수"
+   },
+   "my_account_button": {
+      "message": "내 계정"
+   },
+   "no_downloads_yet": {
+      "message": "아직 항목이 없습니다."
+   },
+   "no_youtube": {
+      "message": "YouTube 다운로드 허용 안 됨"
+   },
+   "no_youtube_description": {
+      "message": " 아쉽게도 Chrome 웹 스토어는 YouTube 동영상 다운로드 확장 프로그램을 허용하지 않으므로, 이 기능을 Chrome 버전 확장 프로그램에 포함할 수 없었습니다."
+   },
+   "nomedia_description": {
+      "message": "미디어 감지를 위해 동영상을 재생하세요 (광고가 있다면 건너뛰세요). 또는 미디어 누락을 신고하세요."
+   },
+   "nomedia_reload_button": {
+      "message": "강제 감지"
+   },
+   "nomedia_reload_button_tooltip": {
+      "message": "페이지 강제 새로고침 (쿠키 삭제)"
+   },
+   "nomedia_title": {
+      "message": "찾으시는 미디어가 보이지 않나요?"
+   },
+   "one_hundred_downloads_title": {
+      "message": "100개의 동영상을 다운로드하셨습니다!"
+   },
+   "open_source_tab_button_tooltip": {
+      "message": "소스 탭 열기"
+   },
+   "panel_position_title": {
+      "message": "패널 위치"
+   },
+   "play": {
+      "message": "재생"
+   },
+   "popup_size_big": {
+      "message": "크게"
+   },
+   "popup_size_medium": {
+      "message": "중간"
+   },
+   "popup_size_small": {
+      "message": "작게"
+   },
+   "popup_size_title": {
+      "message": "창 크기"
+   },
+   "prefer_original_audio": {
+      "message": "원본 오디오 선호"
+   },
+   "premium_hls_required_description": {
+      "message": "프리미엄 상태가 아니면 HLS 또는 MPD 다운로드는 이전 다운로드로부터 2시간 후에만 수행할 수 있습니다."
+   },
+   "premium_required": {
+      "message": "프리미엄 상태 필요"
+   },
+   "premium_yt_required_description": {
+      "message": "프리미엄 상태가 아니면 YouTube 다운로드는 이전 다운로드로부터 2시간 후에만 수행할 수 있습니다."
+   },
+   "preview_mode_image": {
+      "message": "이미지"
+   },
+   "preview_mode_none": {
+      "message": "비활성화됨"
+   },
+   "preview_mode_title": {
+      "message": "미디어 미리보기"
+   },
+   "preview_mode_video": {
+      "message": "짧은 동영상 미리보기"
+   },
+   "private_browsing_button": {
+      "message": "시크릿 브라우징 설정 변경"
+   },
+   "private_browsing_notifications": {
+      "message": "시크릿 다운로드 알림 표시"
+   },
+   "private_browsing_title": {
+      "message": "시크릿 브라우징"
+   },
+   "private_browsing_warning": {
+      "message": "Video DownloadHelper는 시크릿/비공개 창에서 활성화되어 있지 않습니다. 이 옵션을 수동으로 켜야 합니다 (필수는 아님)."
+   },
+   "rename_short": {
+      "message": "이름 변경"
+   },
+   "report": {
+      "message": "신고"
+   },
+   "reported_thankyou": {
+      "message": "감사합니다!"
+   },
+   "reporting": {
+      "message": "신고 중..."
+   },
+   "reset_settings": {
+      "message": "설정 초기화"
+   },
+   "restart_addon": {
+      "message": "애드온 다시 로드"
+   },
+   "restore_purchase_button": {
+      "message": "구매 복원"
+   },
+   "retry_download_button_tooltip": {
+      "message": "다운로드 재시도"
+   },
+   "saveas_detected_warning": {
+      "message": "다운로드가 완료되면 브라우저에 '다른 이름으로 저장' 대화 상자가 나타나는 것을 감지했습니다. 브라우저 설정에서 이 옵션을 비활성화하는 것을 권장합니다."
+   },
+   "setting_button_tooltip": {
+      "message": "설정"
+   },
+   "settings_history_title": {
+      "message": "기록"
+   },
+   "show_all_history_button": {
+      "message": "모두 보기"
+   },
+   "show_in_context_menu": {
+      "message": "페이지에서 마우스 오른쪽 클릭으로 명령에 액세스"
+   },
+   "show_in_popup_button_tooltip": {
+      "message": "팝업으로 보기"
+   },
+   "show_in_sidebar_button_tooltip": {
+      "message": "사이드바로 보기"
+   },
+   "show_nomedia_button": {
+      "message": "동영상이 없나요?"
+   },
+   "show_nomedia_button_tooltip": {
+      "message": "동영상을 찾을 수 없으면 여기를 클릭하세요."
+   },
+   "show_notification": {
+      "message": "다운로드 완료 시 알림 표시"
+   },
+   "stop": {
+      "message": "중지"
+   },
+   "theme_dark": {
+      "message": "어둡게"
+   },
+   "theme_light": {
+      "message": "밝게"
+   },
+   "theme_system": {
+      "message": "시스템"
+   },
+   "theme_title": {
+      "message": "테마"
+   },
+   "transient_history_description": {
+      "message": "완료된 다운로드 패널에 표시"
+   },
+   "translate_button_tooltip": {
+      "message": "VDH 번역 돕기"
+   },
+   "use_popup": {
+      "message": "팝업으로 표시"
+   },
+   "use_sidebar": {
+      "message": "사이드바로 표시"
+   },
+   "version_title": {
+      "message": "버전"
+   },
+   "video_not_playing_button_tooltip": {
+      "message": "동영상이 재생되지 않나요?"
+   },
+   "waiting_for_media": {
+      "message": "미디어 대기 중…"
+   },
+   "warn_drm_tooltip": {
+      "message": "DRM 감지됨"
+   },
+   "youtube_too_many_downloads": {
+      "message": "이런, YouTube가 차단된 것 같습니다."
+   },
+   "youtube_too_many_downloads_description": {
+      "message": "YouTube는 때때로 요청할 수 있는 동영상 수를 제한합니다. 아쉽게도 저희가 할 수 있는 일은 없습니다. 나중에 다시 시도해 보세요."
+   }
+}

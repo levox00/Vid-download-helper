@@ -1,0 +1,314 @@
+{
+   "account_status": {
+      "message": "Durum"
+   },
+   "account_status_premium": {
+      "message": "Premium ($1)"
+   },
+   "account_title": {
+      "message": "Hesap"
+   },
+   "always_copy_url": {
+      "message": "Her zaman URL'yi kopyala"
+   },
+   "always_download_as_menu": {
+      "message": "Her Zaman Farklı İndir..."
+   },
+   "appDesc": {
+      "message": "Web'den Videolar İndirin."
+   },
+   "appearance_title": {
+      "message": "Görünüm"
+   },
+   "audio_only_for_this_website": {
+      "message": "Bu website için her zaman sadece ses"
+   },
+   "back": {
+      "message": "Geri"
+   },
+   "behavior_title": {
+      "message": "Davranış"
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "change_saveas_setting": {
+      "message": "Ayarı değiştir"
+   },
+   "clear_history": {
+      "message": "Geçmişi Temizle"
+   },
+   "complete_title": {
+      "message": "Tamamlanmış"
+   },
+   "copy_to_clipboard": {
+      "message": "Bilgiyi panoya kopyala"
+   },
+   "copy_url": {
+      "message": "URL'yi Kopyala"
+   },
+   "delete_file_button_tooltip": {
+      "message": "Dosyayı sil"
+   },
+   "details": {
+      "message": "Detaylar"
+   },
+   "disable_history": {
+      "message": "Geçmişimi hatırlama"
+   },
+   "download_as_button_and_menu": {
+      "message": "Farklı İndir..."
+   },
+   "download_audio_and_video_menu": {
+      "message": "Ses & Video İndir"
+   },
+   "download_audio_button": {
+      "message": "Ses"
+   },
+   "download_audio_only_menu": {
+      "message": "Ses İndir"
+   },
+   "download_button": {
+      "message": "İndir"
+   },
+   "download_directory_button_tooltip": {
+      "message": "İndirme klasörünü göster"
+   },
+   "download_failed": {
+      "message": "İndirme başarısız"
+   },
+   "download_failed_description": {
+      "message": "Maalesef söz konusu medyayı indirmeyi başaramadık. Mümkün olduğunca çok web sitesini desteklemeye çalışıyoruz, bu nedenle bu hatayı bildirirseniz bize çok yardımcı olursunuz (anonimdir!)."
+   },
+   "download_interrupted": {
+      "message": "İndirme kesintiye uğradı"
+   },
+   "download_interrupted_description": {
+      "message": "Dosyanızı indirmeyi başardık, ancak bir ağ sorunu oluştu, bu nedenle dosya beklenenden daha kısa olabilir. Mümkün olduğunca çok web sitesini desteklemeye çalışıyoruz, bu nedenle bu hatayı bildirirseniz bize çok yardımcı olursunuz (anonimdir!)."
+   },
+   "download_title": {
+      "message": "İndirmeler"
+   },
+   "download_with_drm_failed_description": {
+      "message": "Bir sorun oluştu. Bu videonun DRM korumasına sahip olduğunu düşünüyoruz. DRM korumasına sahip videoları desteklemiyoruz."
+   },
+   "enable_history": {
+      "message": "Geçmişi Etkinleştir"
+   },
+   "free_account": {
+      "message": "Ücretsiz plan"
+   },
+   "get_premium_button": {
+      "message": "Premium al"
+   },
+   "hide_complete_button": {
+      "message": "gizle"
+   },
+   "history_button_tooltip": {
+      "message": "İndirme Geçmişini Göster"
+   },
+   "history_limit": {
+      "message": "X gün sonra indirme geçmişini unut"
+   },
+   "history_title": {
+      "message": "İndirme Geçmişi"
+   },
+   "history_warning": {
+      "message": "İndirme geçmişinizi kaydetmiyoruz. Video DownloadHelper'ın indirme geçmişini hatırlamasını ister misin?"
+   },
+   "history_warning_2": {
+      "message": "Endişelenmeyin, her şey bilgisayarınızda kalır. Gizliliğinize değer veriyoruz."
+   },
+   "leave_review_button": {
+      "message": "İnceleme yaz"
+   },
+   "leave_review_description": {
+      "message": "Video DownloadHelper'ı beğendiğini umuyoruz :) Eklenti web sitesine hoş bir inceleme yazman mümkün mü?"
+   },
+   "max_parallel_downloads": {
+      "message": "Maks eş zamanlı indirme"
+   },
+   "my_account_button": {
+      "message": "Hesabım"
+   },
+   "no_downloads_yet": {
+      "message": "Henüz giriş yok."
+   },
+   "no_youtube": {
+      "message": "Youtube'dan indirmeye izin verilmiyor"
+   },
+   "no_youtube_description": {
+      "message": "Ne yazık ki Chrome Web Mağazası YouTube videolarını indirmek için eklentilere izin vermiyor, bu nedenle eklentinin Chrome sürümüne bu özelliği ekleyemedik."
+   },
+   "nomedia_description": {
+      "message": "Medya tespitine yardımcı olmak için videoyu başlat (varsa reklamları atla). Veya kayıp medyayı raporla."
+   },
+   "nomedia_reload_button": {
+      "message": "Tespite zorla"
+   },
+   "nomedia_reload_button_tooltip": {
+      "message": "Zorla sayfayı yenile (çerezleri temizler)"
+   },
+   "nomedia_title": {
+      "message": "Aradığın medyayı göremiyor musun?"
+   },
+   "one_hundred_downloads_title": {
+      "message": "100 video indirdin!"
+   },
+   "open_source_tab_button_tooltip": {
+      "message": "Kaynak sekmesini aç"
+   },
+   "panel_position_title": {
+      "message": "Panel pozisyonu"
+   },
+   "play": {
+      "message": "Oynat"
+   },
+   "popup_size_big": {
+      "message": "Büyük"
+   },
+   "popup_size_medium": {
+      "message": "Orta"
+   },
+   "popup_size_small": {
+      "message": "Küçük"
+   },
+   "popup_size_title": {
+      "message": "Pencere boyutu"
+   },
+   "prefer_original_audio": {
+      "message": "Orijinal sesi tercih et"
+   },
+   "premium_hls_required_description": {
+      "message": "Premium statüsü olmadan HLS veya MPD indirme işlemi bir öncekinden en fazla 2 saat sonra gerçekleştirilebilir."
+   },
+   "premium_required": {
+      "message": "Premium statü gerekli"
+   },
+   "premium_yt_required_description": {
+      "message": "Premium statüsü olmadan YouTube indirme işlemi bir öncekinden en fazla 2 saat sonra gerçekleştirilebilir."
+   },
+   "preview_mode_image": {
+      "message": "Resim"
+   },
+   "preview_mode_none": {
+      "message": "Devredışı"
+   },
+   "preview_mode_title": {
+      "message": "Medya önizlemesi"
+   },
+   "preview_mode_video": {
+      "message": "Kısa video önizlemesi"
+   },
+   "private_browsing_button": {
+      "message": "Gizli gezinme ayarını değiştir"
+   },
+   "private_browsing_notifications": {
+      "message": "Gizli indirmeler için bildirim göster"
+   },
+   "private_browsing_title": {
+      "message": "Gizli gezinme"
+   },
+   "private_browsing_warning": {
+      "message": "Video DownloadHelper, Özel/Gizli pencerelerde etkin değil. Bu seçeneği manuel olarak açmanız gerekiyor (zorunlu değil)."
+   },
+   "rename_short": {
+      "message": "Yeniden Adlandır"
+   },
+   "report": {
+      "message": "Bildir"
+   },
+   "reported_thankyou": {
+      "message": "Teşekkürler!"
+   },
+   "reporting": {
+      "message": "Bildiriliyor..."
+   },
+   "reset_settings": {
+      "message": "Ayarları sıfırla"
+   },
+   "restart_addon": {
+      "message": "Eklentiyi yeniden yükle"
+   },
+   "restore_purchase_button": {
+      "message": "Satın alımı geri yükle"
+   },
+   "retry_download_button_tooltip": {
+      "message": "İndirmeyi tekrar dene"
+   },
+   "saveas_detected_warning": {
+      "message": "İndirme işlemi tamamlandıktan sonra tarayıcınızın 'Farklı Kaydet' iletişim kutusunu gösterdiğini tespit ettik. Bu seçeneği tarayıcı ayarlarınızdan devre dışı bırakmanızı öneririz."
+   },
+   "setting_button_tooltip": {
+      "message": "Ayarlar"
+   },
+   "settings_history_title": {
+      "message": "Geçmiş"
+   },
+   "show_all_history_button": {
+      "message": "tümünü göster"
+   },
+   "show_in_context_menu": {
+      "message": "Sayfada sağ tık menüsünden komutlara eriş"
+   },
+   "show_in_popup_button_tooltip": {
+      "message": "Açılır pencerede göster"
+   },
+   "show_in_sidebar_button_tooltip": {
+      "message": "Kenar çubuğunda göster"
+   },
+   "show_nomedia_button": {
+      "message": "Video yok mu?"
+   },
+   "show_nomedia_button_tooltip": {
+      "message": "Eğer videonu bulamıyorsan buraya tıkla"
+   },
+   "show_notification": {
+      "message": "İndirme tamamlanınca bildirim göster"
+   },
+   "stop": {
+      "message": "Dur"
+   },
+   "theme_dark": {
+      "message": "karanlık"
+   },
+   "theme_light": {
+      "message": "aydınlık"
+   },
+   "theme_system": {
+      "message": "sistem"
+   },
+   "theme_title": {
+      "message": "Tema"
+   },
+   "transient_history_description": {
+      "message": "Panelde tamamlanmış indirmeleri göster"
+   },
+   "translate_button_tooltip": {
+      "message": "VDH çevirisine yardımcı ol"
+   },
+   "use_popup": {
+      "message": "Açılır pencerede göster"
+   },
+   "use_sidebar": {
+      "message": "Kenar çubuğunda göster"
+   },
+   "version_title": {
+      "message": "Sürüm"
+   },
+   "video_not_playing_button_tooltip": {
+      "message": "Video oynamıyor mu?"
+   },
+   "waiting_for_media": {
+      "message": "Medya için bekleniyor..."
+   },
+   "warn_drm_tooltip": {
+      "message": "DRM algılandı"
+   },
+   "youtube_too_many_downloads": {
+      "message": "Eyvah, YouTube engellenmiş görünüyor"
+   },
+   "youtube_too_many_downloads_description": {
+      "message": "YouTube bazen istenebilecek video sayısını sınırlayabilir. Maalesef yapabileceğimiz bir şey yok. Daha sonra tekrar deneyin."
+   }
+}

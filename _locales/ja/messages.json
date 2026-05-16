@@ -1,0 +1,365 @@
+{
+   "account_status": {
+      "message": "ステータス"
+   },
+   "account_status_premium": {
+      "message": "プレミアム ($1)"
+   },
+   "account_title": {
+      "message": "アカウント"
+   },
+   "always_copy_url": {
+      "message": "常にURLをコピーする"
+   },
+   "always_download_as_menu": {
+      "message": "常にダウンロード形式を…"
+   },
+   "appDesc": {
+      "message": "ウェブから動画をダウンロード"
+   },
+   "appearance_title": {
+      "message": "外観"
+   },
+   "audio_only_for_this_website": {
+      "message": "このウェブサイトでは常に音声のみ利用する"
+   },
+   "back": {
+      "message": "戻る"
+   },
+   "bad_download_subdirectory_warning": {
+      "message": "入力されたサブフォルダ名の文字列が不正です"
+   },
+   "behavior_title": {
+      "message": "動作"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "change_browser_download_directory": {
+      "message": "ブラウザの保存先を変更する"
+   },
+   "change_saveas_setting": {
+      "message": "設定を変更する"
+   },
+   "clear_downloaded_tooltip": {
+      "message": "ダウンロード履歴をクリア"
+   },
+   "clear_history": {
+      "message": "履歴を消去"
+   },
+   "complete_title": {
+      "message": "完了"
+   },
+   "controls_title": {
+      "message": "操作"
+   },
+   "copy_to_clipboard": {
+      "message": "クリップボードにコピー"
+   },
+   "copy_url": {
+      "message": "URLをコピー"
+   },
+   "delete_file_button_tooltip": {
+      "message": "ファイルを削除"
+   },
+   "details": {
+      "message": "詳細"
+   },
+   "disable_history": {
+      "message": "履歴を無効化"
+   },
+   "download_as_button_and_menu": {
+      "message": "名前を付けてダウンロード"
+   },
+   "download_audio_and_video_menu": {
+      "message": "オーディオとビデオをダウンロードする"
+   },
+   "download_audio_button": {
+      "message": "オーディオ"
+   },
+   "download_audio_only_menu": {
+      "message": "音声をダウンロード"
+   },
+   "download_button": {
+      "message": "ダウンロード"
+   },
+   "download_directory_button_tooltip": {
+      "message": "ダウンロードフォルダーを開く"
+   },
+   "download_directory_description": {
+      "message": "動画は、ブラウザ規定の保存先にダウンロードされますが、サブフォルダを指定することもできます。また、サイトごとの保存先はSmartnamingツールで設定できます。"
+   },
+   "download_directory_title": {
+      "message": "保存先"
+   },
+   "download_failed": {
+      "message": "ダウンロードに失敗しました"
+   },
+   "download_failed_description": {
+      "message": "残念ながら、このメディアのダウンロードに失敗しました。 改善のため、エラーの報告にご協力ください（報告は匿名です）。"
+   },
+   "download_interrupted": {
+      "message": "ダウンロードが中断されました"
+   },
+   "download_interrupted_description": {
+      "message": "ファイルはダウンロードされましたが、ネットワークの問題により、内容が完全でない可能性があります。 改善のため、問題の報告にご協力ください（報告は匿名です）。"
+   },
+   "download_subdirectory": {
+      "message": "サブフォルダー"
+   },
+   "download_title": {
+      "message": "ダウンロード"
+   },
+   "download_with_drm_failed_description": {
+      "message": "処理に失敗しました。この動画には DRM が含まれている可能性があります。DRM 付きの動画はサポートしていません。"
+   },
+   "enable_history": {
+      "message": "履歴を有効化"
+   },
+   "free_account": {
+      "message": "無料プラン"
+   },
+   "get_premium_button": {
+      "message": "プレミアムに更新"
+   },
+   "help_button_tooltip": {
+      "message": "ヘルプ"
+   },
+   "hide_complete_button": {
+      "message": "非表示"
+   },
+   "history_button_tooltip": {
+      "message": "ダウンロード履歴を表示"
+   },
+   "history_limit": {
+      "message": "日後にダウンロード履歴を自動で削除する"
+   },
+   "history_title": {
+      "message": "ダウンロード履歴"
+   },
+   "history_warning": {
+      "message": "ダウンロード履歴は記録されていません。Video DownloadHelper でダウンロード履歴を記録しますか？"
+   },
+   "history_warning_2": {
+      "message": "ご安心ください。データはすべてお使いの端末内に保存されます。我々はプライバシーを尊重しています。"
+   },
+   "leave_review_button": {
+      "message": "レビューする"
+   },
+   "leave_review_description": {
+      "message": "Video DownloadHelper をお楽しみいただければ幸いです :) アドオン Web サイトに素敵なレビューを書いていただけませんか?"
+   },
+   "max_parallel_downloads": {
+      "message": "最大同時ダウンロード数"
+   },
+   "my_account_button": {
+      "message": "マイアカウント"
+   },
+   "no_downloads_yet": {
+      "message": "まだダウンロードされていません"
+   },
+   "no_youtube": {
+      "message": "YouTubeからのダウンロードはできません"
+   },
+   "no_youtube_description": {
+      "message": "申し訳ありませんが、Chrome ウェブストアでは YouTube 動画のダウンロード用の拡張機能が許可されないため、この機能を Chrome バージョンの拡張機能に含めることができませんでした。"
+   },
+   "no_youtube_description_2": {
+      "message": "Firefox または Microsoft Edge をご利用ください"
+   },
+   "nomedia_description": {
+      "message": "メディア検出のために動画を再生してください(広告がある場合スキップ)。それでもメディアが見つからない場合、報告してください。"
+   },
+   "nomedia_reload_button": {
+      "message": "強制検出"
+   },
+   "nomedia_reload_button_tooltip": {
+      "message": "強制ページ更新(クッキーを削除)"
+   },
+   "nomedia_title": {
+      "message": "お探しのメディアが見つかりませんか?"
+   },
+   "one_hundred_downloads_title": {
+      "message": "100本の動画をダウンロードしました！"
+   },
+   "open_source_tab_button_tooltip": {
+      "message": "ソースタブを開く"
+   },
+   "panel_position_title": {
+      "message": "パネルの位置"
+   },
+   "play": {
+      "message": "再生"
+   },
+   "popup_size_big": {
+      "message": "大"
+   },
+   "popup_size_medium": {
+      "message": "中"
+   },
+   "popup_size_small": {
+      "message": "小"
+   },
+   "popup_size_title": {
+      "message": "ウィンドウサイズ"
+   },
+   "prefer_mkv": {
+      "message": "可能な場合はMKV形式でダウンロード"
+   },
+   "prefer_original_audio": {
+      "message": "オリジナルの言語の音声を利用する"
+   },
+   "prefered_quality": {
+      "message": "推奨動画品質"
+   },
+   "prefered_quality_1080p": {
+      "message": "1080p （デフォルト、バランス重視）"
+   },
+   "prefered_quality_720p": {
+      "message": "720p （高速ダウンロード、低解像度）"
+   },
+   "prefered_quality_highest": {
+      "message": "最高画質 （ダウンロード速度が遅い、高解像度）"
+   },
+   "premium_all_required_description": {
+      "message": "プレミアムステータスでない場合、ダウンロードは前回の2時間後に実行できます"
+   },
+   "premium_hls_required_description": {
+      "message": "プレミアムステータスでない場合、HLS または MPD ダウンロードは前回の2時間後に実行できます"
+   },
+   "premium_required": {
+      "message": "プレミアムステータスが必要"
+   },
+   "premium_yt_required_description": {
+      "message": "プレミアムステータスでない場合、YouTubeのダウンロードは前回の2時間後に実行できます"
+   },
+   "preview_mode_image": {
+      "message": "画像"
+   },
+   "preview_mode_none": {
+      "message": "無効"
+   },
+   "preview_mode_title": {
+      "message": "メディアのプレビュー"
+   },
+   "preview_mode_video": {
+      "message": "ショート動画でプレビュー"
+   },
+   "private_browsing_button": {
+      "message": "プライベートブラウズモードの設定を変更する"
+   },
+   "private_browsing_notifications": {
+      "message": "プライベートダウンロードの通知を表示する"
+   },
+   "private_browsing_title": {
+      "message": "プライベートブラウズモード"
+   },
+   "private_browsing_warning": {
+      "message": "Video DownloadHelperは プライベート/シークレット ウィンドウで有効化されません。使用するには、手動で有効にする必要があります（必須ではありません）。"
+   },
+   "rename_short": {
+      "message": "名前を変更"
+   },
+   "report": {
+      "message": "報告"
+   },
+   "reported_thankyou": {
+      "message": "ありがとうございました！"
+   },
+   "reporting": {
+      "message": "報告中"
+   },
+   "reset_settings": {
+      "message": "設定を初期化"
+   },
+   "restart_addon": {
+      "message": "DownloadHelperを再起動する"
+   },
+   "restore_purchase_button": {
+      "message": "購入を復元"
+   },
+   "retry_download_button_tooltip": {
+      "message": "再ダウンロード"
+   },
+   "rm_notifications_all": {
+      "message": "すべての通知を閉じる"
+   },
+   "saveas_detected_warning": {
+      "message": "お使いのブラウザでは、ダウンロード完了時に「名前を付けて保存」ダイアログが表示される設定になっています。 ブラウザの設定で、このオプションを無効にすることをおすすめします。"
+   },
+   "setting_button_tooltip": {
+      "message": "設定…"
+   },
+   "settings_history_title": {
+      "message": "履歴"
+   },
+   "show_all_history_button": {
+      "message": "全表示"
+   },
+   "show_in_context_menu": {
+      "message": "ページ内を右クリックしてコマンドにアクセス"
+   },
+   "show_in_popup_button_tooltip": {
+      "message": "ポップアップで表示"
+   },
+   "show_in_sidebar_button_tooltip": {
+      "message": "サイドバーに表示"
+   },
+   "show_nomedia_button": {
+      "message": "動画がない"
+   },
+   "show_nomedia_button_tooltip": {
+      "message": "動画が見つからない場合はこちら"
+   },
+   "show_notification": {
+      "message": "ダウンロード完了後に通知する"
+   },
+   "stop": {
+      "message": "停止"
+   },
+   "theme_dark": {
+      "message": "ダークモード"
+   },
+   "theme_light": {
+      "message": "ライトモード"
+   },
+   "theme_system": {
+      "message": "システム標準"
+   },
+   "theme_title": {
+      "message": "テーマ"
+   },
+   "throttle_youtube": {
+      "message": "YouTubeの速度を制限する（ダウンロード速度は遅くなるが、ブロックされる可能性が低くなる）"
+   },
+   "transient_history_description": {
+      "message": "完了されたダウンロードをパネルに表示する"
+   },
+   "translate_button_tooltip": {
+      "message": "VDHの翻訳にご協力下さい"
+   },
+   "use_popup": {
+      "message": "ポップアップで表示"
+   },
+   "use_sidebar": {
+      "message": "サイドバーで表示"
+   },
+   "version_title": {
+      "message": "バージョン"
+   },
+   "video_not_playing_button_tooltip": {
+      "message": "動画が再生されませんか?"
+   },
+   "waiting_for_media": {
+      "message": "メディアを待っています…"
+   },
+   "warn_drm_tooltip": {
+      "message": "DRMが検出されました"
+   },
+   "youtube_too_many_downloads": {
+      "message": "おっと、YouTubeがブロックされているようです"
+   },
+   "youtube_too_many_downloads_description": {
+      "message": "YouTubeでは、リクエストできる動画の数に制限がかかる場合があります。残念ながら、これについては対応できません。後ほど再度お試しください。"
+   }
+}

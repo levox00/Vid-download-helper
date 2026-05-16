@@ -1,0 +1,377 @@
+{
+   "account_status": {
+      "message": "状态"
+   },
+   "account_status_premium": {
+      "message": "高级版 ($1)"
+   },
+   "account_title": {
+      "message": "帐户"
+   },
+   "always_copy_url": {
+      "message": "始终复制 URL"
+   },
+   "always_download_as_menu": {
+      "message": "始终下载为…"
+   },
+   "appDesc": {
+      "message": "从网上下载视频。"
+   },
+   "appearance_title": {
+      "message": "界面"
+   },
+   "audio_only_for_this_website": {
+      "message": "此网站始终只下载音频"
+   },
+   "back": {
+      "message": "返回"
+   },
+   "bad_download_subdirectory_warning": {
+      "message": "指定子目录不存在"
+   },
+   "behavior_title": {
+      "message": "常规"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "change_browser_download_directory": {
+      "message": "更改浏览器下载目录"
+   },
+   "change_saveas_setting": {
+      "message": "更改设置"
+   },
+   "clear_downloaded_tooltip": {
+      "message": "清除已完成下载"
+   },
+   "clear_history": {
+      "message": "清除历史记录"
+   },
+   "complete_title": {
+      "message": "完成"
+   },
+   "controls_title": {
+      "message": "控件"
+   },
+   "copy_to_clipboard": {
+      "message": "复制配置信息到剪贴板"
+   },
+   "copy_url": {
+      "message": "复制URL"
+   },
+   "delete_file_button_tooltip": {
+      "message": "删除文件"
+   },
+   "details": {
+      "message": "详情"
+   },
+   "disable_history": {
+      "message": "不要记住历史记录"
+   },
+   "download_as_button_and_menu": {
+      "message": "下载为…"
+   },
+   "download_audio_and_video_menu": {
+      "message": "下载音频和视频"
+   },
+   "download_audio_button": {
+      "message": "音频"
+   },
+   "download_audio_only_menu": {
+      "message": "下载音频"
+   },
+   "download_button": {
+      "message": "下载"
+   },
+   "download_directory_button_tooltip": {
+      "message": "显示下载文件夹"
+   },
+   "download_directory_description": {
+      "message": "视频下载至浏览器默认下载目录，你也可以指定一个子目录。可以使用samrtnaming工具为网站指定下载目录。"
+   },
+   "download_directory_title": {
+      "message": "下载目录"
+   },
+   "download_failed": {
+      "message": "下载失败"
+   },
+   "download_failed_description": {
+      "message": "抱歉，下载指定媒体失败。我们希望您可以上传匿名的错误报告，以便我们可以尽快支持更多网站"
+   },
+   "download_interrupted": {
+      "message": "下载中断"
+   },
+   "download_interrupted_description": {
+      "message": "我们已成功下载您的文件，但由于网络问题，文件可能比预期短。我们努力支持尽可能多的网站，如果您能匿名报告此问题，将对我们非常有帮助！"
+   },
+   "download_subdirectory": {
+      "message": "下载子目录"
+   },
+   "download_title": {
+      "message": "下载内容"
+   },
+   "download_with_drm_failed_description": {
+      "message": "出错了。我们认为此视频采用了 DRM 保护。我们不支持采用 DRM 保护的视频。"
+   },
+   "enable_history": {
+      "message": "记住历史记录"
+   },
+   "font_size_default": {
+      "message": "标准"
+   },
+   "font_size_large": {
+      "message": "大"
+   },
+   "font_size_title": {
+      "message": "文字尺寸"
+   },
+   "font_size_verylarge": {
+      "message": "非常大"
+   },
+   "free_account": {
+      "message": "免费套餐"
+   },
+   "get_premium_button": {
+      "message": "获取高级会员"
+   },
+   "help_button_tooltip": {
+      "message": "帮助"
+   },
+   "hide_complete_button": {
+      "message": "隐藏"
+   },
+   "history_button_tooltip": {
+      "message": "显示下载历史记录"
+   },
+   "history_limit": {
+      "message": "X 天后清除下载历史记录"
+   },
+   "history_title": {
+      "message": "下载历史"
+   },
+   "history_warning": {
+      "message": "我们不会上传您的下载历史记录，您想让 Video DownloadHelper 记住您的下载历史记录吗？"
+   },
+   "history_warning_2": {
+      "message": "别担心，所有内容只会保留在您的机器上。我们重视您的隐私。"
+   },
+   "leave_review_button": {
+      "message": "去评论"
+   },
+   "leave_review_description": {
+      "message": "我们希望您享受此扩展带来的便利 :) 可以在插件商店页给我们一个好评吗？"
+   },
+   "max_parallel_downloads": {
+      "message": "最大同时下载任务数"
+   },
+   "my_account_button": {
+      "message": "我的帐户"
+   },
+   "no_downloads_yet": {
+      "message": "尚无任何条目。"
+   },
+   "no_youtube": {
+      "message": "不允许从 youtube 下载"
+   },
+   "no_youtube_description": {
+      "message": "遗憾的是，Chrome插件商店不允许扩展程序下载YouTube视频，因此我们无法在此插件的Chrome版本中包含此功能。"
+   },
+   "no_youtube_description_2": {
+      "message": "请使用 Firefox 或 Microsoft Edge 浏览器。"
+   },
+   "nomedia_description": {
+      "message": "播放视频（如有广告请跳过），以帮助检测媒体。或报告媒体缺失。"
+   },
+   "nomedia_reload_button": {
+      "message": "强制检测"
+   },
+   "nomedia_reload_button_tooltip": {
+      "message": "强制重新加载页面（清除 cookie）"
+   },
+   "nomedia_title": {
+      "message": "看不到查找的媒体？"
+   },
+   "one_hundred_downloads_title": {
+      "message": "你已经下载了100个视频了！"
+   },
+   "open_source_tab_button_tooltip": {
+      "message": "打开源选项卡"
+   },
+   "panel_position_title": {
+      "message": "面板位置"
+   },
+   "play": {
+      "message": "播放"
+   },
+   "popup_size_big": {
+      "message": "大"
+   },
+   "popup_size_medium": {
+      "message": "中"
+   },
+   "popup_size_small": {
+      "message": "小"
+   },
+   "popup_size_title": {
+      "message": "窗口大小"
+   },
+   "prefer_mkv": {
+      "message": "尽可能下载为 MKV 格式。"
+   },
+   "prefer_original_audio": {
+      "message": "首选原始音频"
+   },
+   "prefered_quality": {
+      "message": "首选视频质量"
+   },
+   "prefered_quality_1080p": {
+      "message": "1080p（不错的默认设置）"
+   },
+   "prefered_quality_720p": {
+      "message": "720p（下载速度快，分辨率低）"
+   },
+   "prefered_quality_highest": {
+      "message": "最高（下载速度慢，分辨率高）"
+   },
+   "premium_all_required_description": {
+      "message": "如果没有高级版，只能在前次下载 2 小时后才能开始新下载"
+   },
+   "premium_hls_required_description": {
+      "message": "如果没有高级版，HLS和MPD下载只能在前次下载 2 小时后才能进行。"
+   },
+   "premium_required": {
+      "message": "需要高级版"
+   },
+   "premium_yt_required_description": {
+      "message": "如果没有高级版，YouTube 视频下载只能在前次下载 2 小时后才能进行。"
+   },
+   "preview_mode_image": {
+      "message": "预览图像"
+   },
+   "preview_mode_none": {
+      "message": "关闭"
+   },
+   "preview_mode_title": {
+      "message": "媒体预览"
+   },
+   "preview_mode_video": {
+      "message": "预览视频"
+   },
+   "private_browsing_button": {
+      "message": "更改隐私浏览设置"
+   },
+   "private_browsing_notifications": {
+      "message": "显示隐私下载通知"
+   },
+   "private_browsing_title": {
+      "message": "隐私浏览"
+   },
+   "private_browsing_warning": {
+      "message": "Video DownloadHelper 未在隐身模式中启用，你需要在选项中手工启动（非必须）。"
+   },
+   "rename_short": {
+      "message": "重命名"
+   },
+   "report": {
+      "message": "报告"
+   },
+   "reported_thankyou": {
+      "message": "谢谢！"
+   },
+   "reporting": {
+      "message": "正在报告…"
+   },
+   "reset_settings": {
+      "message": "重置设置"
+   },
+   "restart_addon": {
+      "message": "刷新插件"
+   },
+   "restore_purchase_button": {
+      "message": "恢复购买"
+   },
+   "retry_download_button_tooltip": {
+      "message": "重试下载"
+   },
+   "rm_notifications_all": {
+      "message": "忽视所有通知"
+   },
+   "saveas_detected_warning": {
+      "message": "我们检测到您的浏览器在下载完成后会显示“另存为”对话框。建议您在浏览器设置中禁用该选项。"
+   },
+   "setting_button_tooltip": {
+      "message": "设置"
+   },
+   "settings_history_title": {
+      "message": "历史记录"
+   },
+   "show_all_history_button": {
+      "message": "显示全部"
+   },
+   "show_in_context_menu": {
+      "message": "访问来自页面右击的命令"
+   },
+   "show_in_popup_button_tooltip": {
+      "message": "在弹出窗口显示"
+   },
+   "show_in_sidebar_button_tooltip": {
+      "message": "在侧边栏显示"
+   },
+   "show_nomedia_button": {
+      "message": "无视频？"
+   },
+   "show_nomedia_button_tooltip": {
+      "message": "如果找不到您的视频，请单击此处"
+   },
+   "show_notification": {
+      "message": "下载完成后显示通知"
+   },
+   "stop": {
+      "message": "停止"
+   },
+   "theme_dark": {
+      "message": "深色"
+   },
+   "theme_light": {
+      "message": "浅色"
+   },
+   "theme_system": {
+      "message": "系统"
+   },
+   "theme_title": {
+      "message": "主题"
+   },
+   "throttle_youtube": {
+      "message": "限制 YouTube 下载速度（下载速度变慢，但被屏蔽的可能性更小）"
+   },
+   "transient_history_description": {
+      "message": "在面板中显示完整的下载记录"
+   },
+   "translate_button_tooltip": {
+      "message": "协助翻译此插件"
+   },
+   "use_popup": {
+      "message": "在弹出窗口显示"
+   },
+   "use_sidebar": {
+      "message": "在侧边栏显示"
+   },
+   "version_title": {
+      "message": "版本"
+   },
+   "video_not_playing_button_tooltip": {
+      "message": "视频无法播放？"
+   },
+   "waiting_for_media": {
+      "message": "正在等待媒体…"
+   },
+   "warn_drm_tooltip": {
+      "message": "检测到 DRM"
+   },
+   "youtube_too_many_downloads": {
+      "message": "糟糕，YouTube 似乎被屏蔽了。"
+   },
+   "youtube_too_many_downloads_description": {
+      "message": "YouTube有时会限制视频请求的数量。很遗憾，我们对此无能为力。请稍后再试。"
+   }
+}

@@ -1,0 +1,362 @@
+{
+   "account_status": {
+      "message": "Статус"
+   },
+   "account_status_premium": {
+      "message": "Premium ($1)"
+   },
+   "account_title": {
+      "message": "Акаунт"
+   },
+   "always_copy_url": {
+      "message": "Завжди копіювати URL"
+   },
+   "always_download_as_menu": {
+      "message": "Завжди завантажувати як…"
+   },
+   "appDesc": {
+      "message": "Завантажити відео з Інтернету."
+   },
+   "appearance_title": {
+      "message": "Зовнішній вигляд"
+   },
+   "audio_only_for_this_website": {
+      "message": "Завжди тільки аудіо для цього сайту"
+   },
+   "back": {
+      "message": "Назад"
+   },
+   "bad_download_subdirectory_warning": {
+      "message": "Вказаний вами підкаталог недійсний."
+   },
+   "behavior_title": {
+      "message": "Поведінка"
+   },
+   "cancel": {
+      "message": "Скасувати"
+   },
+   "change_browser_download_directory": {
+      "message": "Змінити каталог завантажень браузера"
+   },
+   "change_saveas_setting": {
+      "message": "Змінити налаштування"
+   },
+   "clear_downloaded_tooltip": {
+      "message": "Очистити завершене завантаження"
+   },
+   "clear_history": {
+      "message": "Очистити історію"
+   },
+   "complete_title": {
+      "message": "Завершено"
+   },
+   "controls_title": {
+      "message": "Управління"
+   },
+   "copy_to_clipboard": {
+      "message": "Скопіювати інформацію в буфер обміну"
+   },
+   "copy_url": {
+      "message": "Копіювати URL"
+   },
+   "delete_file_button_tooltip": {
+      "message": "Видалити файл"
+   },
+   "details": {
+      "message": "Детальніше"
+   },
+   "disable_history": {
+      "message": "Вимкнути історію"
+   },
+   "download_as_button_and_menu": {
+      "message": "Завантажити як…"
+   },
+   "download_audio_and_video_menu": {
+      "message": "Аудіо та відео"
+   },
+   "download_audio_button": {
+      "message": "Аудіо"
+   },
+   "download_audio_only_menu": {
+      "message": "Тільки аудіо"
+   },
+   "download_button": {
+      "message": "Завантажити"
+   },
+   "download_directory_button_tooltip": {
+      "message": "Показати папку завантажень"
+   },
+   "download_directory_description": {
+      "message": "Відео завантажуються в каталог завантажень браузера за замовчуванням. Ви також можете вказати підкаталог. Каталоги завантажень для конкретних веб-сайтів можна налаштувати за допомогою інструмента SmartNaming."
+   },
+   "download_directory_title": {
+      "message": "Каталог для завантажень"
+   },
+   "download_failed": {
+      "message": "Помилка завантаження"
+   },
+   "download_failed_description": {
+      "message": "Щось пішло не так. Повідомте про помилку, і ми постараємося розібратися (ми анонімно відправляємо URL відео — ми не відслідковуємо вас!)."
+   },
+   "download_interrupted": {
+      "message": "Завантаження перервано"
+   },
+   "download_interrupted_description": {
+      "message": "Файл було частково завантажено, але через проблеми з мережею він може бути коротший, ніж очікувалося. Ми намагаємося підтримувати якомога більше сайтів, тому було б дуже корисно, якби ви повідомили про цю проблему (це анонімно!)."
+   },
+   "download_subdirectory": {
+      "message": "Підкаталог завантажень"
+   },
+   "download_title": {
+      "message": "Завантаження"
+   },
+   "download_with_drm_failed_description": {
+      "message": "Щось пішло не так. Ймовірно, це відео захищене DRM. Ми не підтримуємо відео з DRM."
+   },
+   "enable_history": {
+      "message": "Увімкнути історію"
+   },
+   "free_account": {
+      "message": "Безкоштовний тариф"
+   },
+   "get_premium_button": {
+      "message": "Отримати преміум-версію"
+   },
+   "hide_complete_button": {
+      "message": "Сховати"
+   },
+   "history_button_tooltip": {
+      "message": "Показати історію завантажень"
+   },
+   "history_limit": {
+      "message": "Кількість днів збереження історії"
+   },
+   "history_title": {
+      "message": "Історія завантажень"
+   },
+   "history_warning": {
+      "message": "Ми не зберігаємо вашу історію завантажень. Хочете, щоб Video DownloadHelper запам’ятовував історію?"
+   },
+   "history_warning_2": {
+      "message": "Не хвилюйтеся, усі дані залишаються на вашому пристрої. Ми цінуємо вашу конфіденційність."
+   },
+   "leave_review_button": {
+      "message": "Залишити відгук"
+   },
+   "leave_review_description": {
+      "message": "Привіт! 🤚 Video DownloadHelper можна користуватися безкоштовно. Хочете залишити позитивний відгук? Це дуже допоможе 😊."
+   },
+   "max_parallel_downloads": {
+      "message": "Максимальна кількість паралельних завантажень"
+   },
+   "my_account_button": {
+      "message": "Мій акаунт"
+   },
+   "no_downloads_yet": {
+      "message": "Поки що немає завантажень."
+   },
+   "no_youtube": {
+      "message": "Завантаження з YouTube заборонено"
+   },
+   "no_youtube_description": {
+      "message": "На жаль, магазин Chrome не допускає розширення для завантаження відео з YouTube, тому ця функція відсутня у версії для Chrome."
+   },
+   "no_youtube_description_2": {
+      "message": "Будь ласка, використовуйте Firefox або Microsoft Edge"
+   },
+   "nomedia_description": {
+      "message": "Запустіть відео (і пропустіть рекламу, якщо є), щоб допомогти знайти медіа. Або повідомте про відсутність медіа."
+   },
+   "nomedia_reload_button": {
+      "message": "Примусово запустити пошук"
+   },
+   "nomedia_reload_button_tooltip": {
+      "message": "Примусово перезавантажити сторінку (очистити cookies)"
+   },
+   "nomedia_title": {
+      "message": "Не бачите потрібне відео?"
+   },
+   "one_hundred_downloads_title": {
+      "message": "Ви завантажили 100 відео!"
+   },
+   "open_source_tab_button_tooltip": {
+      "message": "Відкрити вкладку з вихідним кодом"
+   },
+   "panel_position_title": {
+      "message": "Положення панелі"
+   },
+   "play": {
+      "message": "Відтворити"
+   },
+   "popup_size_big": {
+      "message": "Великий"
+   },
+   "popup_size_medium": {
+      "message": "Середній"
+   },
+   "popup_size_small": {
+      "message": "Маленький"
+   },
+   "popup_size_title": {
+      "message": "Розмір вікна"
+   },
+   "prefer_mkv": {
+      "message": "Завантажувати у форматі MKV, коли це можливо"
+   },
+   "prefer_original_audio": {
+      "message": "Віддавати перевагу оригінальному звуку"
+   },
+   "prefered_quality": {
+      "message": "Бажана якість відео"
+   },
+   "prefered_quality_1080p": {
+      "message": "1080p (висока за замовчуванням)"
+   },
+   "prefered_quality_720p": {
+      "message": "720p (швидке завантаження, низька роздільність)"
+   },
+   "prefered_quality_highest": {
+      "message": "Найвища (повільне завантаження, висока роздільність)"
+   },
+   "premium_all_required_description": {
+      "message": "Без преміум-статусу завантаження можна виконати лише через 2 години після попереднього."
+   },
+   "premium_hls_required_description": {
+      "message": "Без статусу Premium завантаження HLS або MPD можливо лише через 2 години після попереднього"
+   },
+   "premium_required": {
+      "message": "Потрібен статус Premium"
+   },
+   "premium_yt_required_description": {
+      "message": "Без статусу Premium завантаження з YouTube можливе лише через 2 години після попереднього."
+   },
+   "preview_mode_image": {
+      "message": "Зображення"
+   },
+   "preview_mode_none": {
+      "message": "Вимкнено"
+   },
+   "preview_mode_title": {
+      "message": "Попередній перегляд медіа"
+   },
+   "preview_mode_video": {
+      "message": "Перед перегляд короткого відео"
+   },
+   "private_browsing_button": {
+      "message": "Змінити налаштування приватного режиму"
+   },
+   "private_browsing_notifications": {
+      "message": "Показувати повідомлення для завантажень у приватному режимі"
+   },
+   "private_browsing_title": {
+      "message": "Приватний режим"
+   },
+   "private_browsing_warning": {
+      "message": "Video DownloadHelper не працює в приватному режимі."
+   },
+   "rename_short": {
+      "message": "Переназвати"
+   },
+   "report": {
+      "message": "Повідомити"
+   },
+   "reported_thankyou": {
+      "message": "Дякую!"
+   },
+   "reporting": {
+      "message": "Відправка…"
+   },
+   "reset_settings": {
+      "message": "Скинути налаштування"
+   },
+   "restart_addon": {
+      "message": "Перезапустити розширення"
+   },
+   "restore_purchase_button": {
+      "message": "Відновити покупку"
+   },
+   "retry_download_button_tooltip": {
+      "message": "Повторити завантаження"
+   },
+   "rm_notifications_all": {
+      "message": "Відхилити всі сповіщення"
+   },
+   "saveas_detected_warning": {
+      "message": "Виявлено, що ваш браузер показує діалог «Зберегти як» після завершення завантаження. Радимо вимкнути цю опцію в налаштуваннях браузера."
+   },
+   "setting_button_tooltip": {
+      "message": "Налаштування"
+   },
+   "settings_history_title": {
+      "message": "Історія"
+   },
+   "show_all_history_button": {
+      "message": "Показати все"
+   },
+   "show_in_context_menu": {
+      "message": "Доступ до меню команд правою кнопкою миші на цільовій сторінці"
+   },
+   "show_in_popup_button_tooltip": {
+      "message": "Відкрити у виринаючому вікні"
+   },
+   "show_in_sidebar_button_tooltip": {
+      "message": "Відкрити в бічній панелі"
+   },
+   "show_nomedia_button": {
+      "message": "Немає відео?"
+   },
+   "show_nomedia_button_tooltip": {
+      "message": "Натисніть тут, якщо не можете знайти своє відео"
+   },
+   "show_notification": {
+      "message": "Показувати повідомлення після завершення завантаження"
+   },
+   "stop": {
+      "message": "Зупинити"
+   },
+   "theme_dark": {
+      "message": "Темна тема"
+   },
+   "theme_light": {
+      "message": "Світла тема"
+   },
+   "theme_system": {
+      "message": "Системна тема"
+   },
+   "theme_title": {
+      "message": "Тема"
+   },
+   "throttle_youtube": {
+      "message": "Обмежити швидкість YouTube (повільніше завантаження, але менший ризик блокування)"
+   },
+   "transient_history_description": {
+      "message": "Показувати всі завантаження у панелі"
+   },
+   "translate_button_tooltip": {
+      "message": "Допомогти з перекладом VDH"
+   },
+   "use_popup": {
+      "message": "У виринаючому вікні"
+   },
+   "use_sidebar": {
+      "message": "У бічній панелі"
+   },
+   "version_title": {
+      "message": "Версія"
+   },
+   "video_not_playing_button_tooltip": {
+      "message": "Відео не відтворюється?"
+   },
+   "waiting_for_media": {
+      "message": "Очікування медіа…"
+   },
+   "warn_drm_tooltip": {
+      "message": "Виявлено DRM-захист"
+   },
+   "youtube_too_many_downloads": {
+      "message": "Упс, здається, YouTube заблоковано"
+   },
+   "youtube_too_many_downloads_description": {
+      "message": "Іноді YouTube обмежує кількість запитуваних відео. На жаль, ми нічого не можемо з цим вдіяти. Спробуйте пізніше."
+   }
+}

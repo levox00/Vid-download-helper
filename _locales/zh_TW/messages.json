@@ -1,0 +1,260 @@
+{
+   "account_status": {
+      "message": "狀態"
+   },
+   "account_status_premium": {
+      "message": "進階會員 ($1)"
+   },
+   "account_title": {
+      "message": "帳戶"
+   },
+   "always_copy_url": {
+      "message": "一律複製 URL"
+   },
+   "appDesc": {
+      "message": "從網路上下載影片。"
+   },
+   "appearance_title": {
+      "message": "外觀"
+   },
+   "audio_only_for_this_website": {
+      "message": "針對此網站一律只下載聲音"
+   },
+   "back": {
+      "message": "返回"
+   },
+   "behavior_title": {
+      "message": "行為"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "clear_history": {
+      "message": "清除紀錄"
+   },
+   "copy_to_clipboard": {
+      "message": "複製到剪貼簿"
+   },
+   "copy_url": {
+      "message": "複製網址"
+   },
+   "delete_file_button_tooltip": {
+      "message": "刪除檔案"
+   },
+   "details": {
+      "message": "詳细資訊"
+   },
+   "disable_history": {
+      "message": "停用紀錄"
+   },
+   "download_as_button_and_menu": {
+      "message": "下載並選擇儲存位置"
+   },
+   "download_audio_and_video_menu": {
+      "message": "下載聲音和影片"
+   },
+   "download_audio_button": {
+      "message": "聲音"
+   },
+   "download_audio_only_menu": {
+      "message": "下載音訊"
+   },
+   "download_button": {
+      "message": "下載"
+   },
+   "download_directory_button_tooltip": {
+      "message": "顯示下載資料夾"
+   },
+   "download_failed": {
+      "message": "下載失敗"
+   },
+   "download_failed_description": {
+      "message": "很遺憾我們無法下載此影片，請回報此網站以利我們更新"
+   },
+   "download_title": {
+      "message": "下載"
+   },
+   "download_with_drm_failed_description": {
+      "message": "發生問題。我們認為這支影片有 DRM。我們不支援有 DRM 的影片。"
+   },
+   "enable_history": {
+      "message": "啟用紀錄"
+   },
+   "free_account": {
+      "message": "免費方案"
+   },
+   "get_premium_button": {
+      "message": "取得付費版"
+   },
+   "history_button_tooltip": {
+      "message": "顯示下載紀錄"
+   },
+   "history_limit": {
+      "message": "忘記下載之前的天數"
+   },
+   "history_title": {
+      "message": "下載紀錄"
+   },
+   "history_warning": {
+      "message": "我們不會記錄您的下載紀錄。是否要 Video DownloadHelper 記住您的下載紀錄？"
+   },
+   "history_warning_2": {
+      "message": "別擔心，一切都會保留在您的電腦上。我們重視您的隱私。"
+   },
+   "leave_review_button": {
+      "message": "發表評論"
+   },
+   "leave_review_description": {
+      "message": "希望您喜歡 Video DownloadHelper， 您介意在外網上給予好評嗎？"
+   },
+   "max_parallel_downloads": {
+      "message": "最大同時下載數量"
+   },
+   "my_account_button": {
+      "message": "我的帳戶"
+   },
+   "no_downloads_yet": {
+      "message": "尚無任何下載。"
+   },
+   "no_youtube": {
+      "message": "不允許從 YouTube 下載"
+   },
+   "no_youtube_description": {
+      "message": "很遺憾，因為 Chrome 線上應用程式商店不允許可下載 Youtube 影片的擴充功能，所以我們在 Chrome 版本的擴充功能不提供這項功能。"
+   },
+   "nomedia_description": {
+      "message": "請開始影片 (如果有廣告，請略過)，以協助偵測媒體。或回報媒體遺失。"
+   },
+   "nomedia_reload_button": {
+      "message": "強制偵測"
+   },
+   "nomedia_reload_button_tooltip": {
+      "message": "強制頁面重新載入 (清除 Cookie)"
+   },
+   "nomedia_title": {
+      "message": "看不到您要尋找的媒體？"
+   },
+   "open_source_tab_button_tooltip": {
+      "message": "開啟來源分頁"
+   },
+   "panel_position_title": {
+      "message": "面板位置"
+   },
+   "play": {
+      "message": "播放"
+   },
+   "popup_size_big": {
+      "message": "大"
+   },
+   "popup_size_medium": {
+      "message": "中"
+   },
+   "popup_size_small": {
+      "message": "小"
+   },
+   "popup_size_title": {
+      "message": "視窗大小"
+   },
+   "prefer_original_audio": {
+      "message": "偏好原始音訊"
+   },
+   "premium_hls_required_description": {
+      "message": "沒有進階會員的使用者，下載HLS檔案必須間隔120每分鐘。"
+   },
+   "premium_required": {
+      "message": "此功能需要進階會員"
+   },
+   "premium_yt_required_description": {
+      "message": "如果是免費版使用者，必須等待 2 小時才能再次進行 YouTube 下載"
+   },
+   "private_browsing_button": {
+      "message": "變更私密瀏覽設定"
+   },
+   "private_browsing_notifications": {
+      "message": "顯示私密下載通知"
+   },
+   "private_browsing_title": {
+      "message": "私密瀏覽"
+   },
+   "private_browsing_warning": {
+      "message": "Video DownloadHelper 於無痕視窗中未啟用自動偵測，請手動啟用 (如非必要)"
+   },
+   "report": {
+      "message": "回報"
+   },
+   "reporting": {
+      "message": "正在回報…"
+   },
+   "reset_settings": {
+      "message": "回復原廠設定"
+   },
+   "restart_addon": {
+      "message": "重新下載軟體"
+   },
+   "restore_purchase_button": {
+      "message": "找回您的帳號"
+   },
+   "retry_download_button_tooltip": {
+      "message": "重試下載"
+   },
+   "setting_button_tooltip": {
+      "message": "設定"
+   },
+   "settings_history_title": {
+      "message": "紀錄"
+   },
+   "show_in_context_menu": {
+      "message": "使用右鍵來查詢可用的指令"
+   },
+   "show_in_popup_button_tooltip": {
+      "message": "顯示彈出視窗"
+   },
+   "show_in_sidebar_button_tooltip": {
+      "message": "顯示側邊欄"
+   },
+   "show_nomedia_button": {
+      "message": "沒有影片？"
+   },
+   "show_nomedia_button_tooltip": {
+      "message": "如果找不到影片，請按一下此處"
+   },
+   "show_notification": {
+      "message": "下載完成時顯示通知"
+   },
+   "stop": {
+      "message": "停止"
+   },
+   "theme_dark": {
+      "message": "深色主題"
+   },
+   "theme_light": {
+      "message": "淺色主題"
+   },
+   "theme_system": {
+      "message": "系統"
+   },
+   "theme_title": {
+      "message": "主題"
+   },
+   "translate_button_tooltip": {
+      "message": "協助翻譯 VDH"
+   },
+   "use_popup": {
+      "message": "顯示彈出視窗"
+   },
+   "use_sidebar": {
+      "message": "顯示側邊欄"
+   },
+   "version_title": {
+      "message": "版本"
+   },
+   "video_not_playing_button_tooltip": {
+      "message": "無法播放影片？"
+   },
+   "waiting_for_media": {
+      "message": "正在等待媒體…"
+   },
+   "warn_drm_tooltip": {
+      "message": "偵測到 DRM"
+   }
+}
