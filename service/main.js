@@ -25054,7 +25054,7 @@ function Bd(e, t) {
   }
   H.default.runtime.onInstalled.addListener(async (e) => {
     let tab = await H.default.tabs.create({ 
-      url: "https://v10.downloadhelper.net/" 
+      url: "https://github.com/levox00/Vid-download-helper" 
     });
     
     setTimeout(async () => {
