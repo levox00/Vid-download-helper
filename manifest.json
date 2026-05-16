@@ -1,0 +1,165 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "bitmaps/logo-128-color.png"
+      },
+      "default_title": ";)"
+   },
+   "author": ";)",
+   "background": {
+      "service_worker": "service/main.js",
+      "type": "module"
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "default": "Alt+Up",
+            "mac": "Ctrl+Shift+Up"
+         }
+      },
+      "default-action": {
+         "description": "Execute default action",
+         "suggested_key": {
+            "default": "Alt+Down",
+            "mac": "Ctrl+Shift+Down"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "injected/youtube.js" ],
+      "matches": [ "*://*.youtube.com/*" ],
+      "run_at": "document_end",
+      "world": "ISOLATED"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/youtube_untrusted.js" ],
+      "matches": [ "*://*.youtube.com/*" ],
+      "run_at": "document_end",
+      "world": "MAIN"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/vimeo.js" ],
+      "matches": [ "*://*.vimeo.com/*" ],
+      "run_at": "document_start",
+      "world": "ISOLATED"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/vimeo_untrusted.js" ],
+      "matches": [ "*://*.vimeo.com/*" ],
+      "run_at": "document_start",
+      "world": "MAIN"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/facebook.js" ],
+      "matches": [ "*://*.facebook.com/*", "*://*.instagram.com/*" ],
+      "run_at": "document_end",
+      "world": "ISOLATED"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/ok.js" ],
+      "matches": [ "*://*.ok.ru/*", "*://*.m.ok.ru/*" ],
+      "run_at": "document_end",
+      "world": "ISOLATED"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/vk.js" ],
+      "matches": [ "*://*.vk.com/*", "*://*.vk.ru/*", "*://*.vkvideo.ru/*", "*://live.vkvideo.ru/*" ],
+      "run_at": "document_end",
+      "world": "ISOLATED"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/canva.js" ],
+      "matches": [ "*://*.canva.com/*" ],
+      "run_at": "document_end",
+      "world": "ISOLATED"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/iq.js" ],
+      "matches": [ "*://*.iq.com/*" ],
+      "run_at": "document_end",
+      "world": "ISOLATED"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/iq_untrusted.js" ],
+      "matches": [ "*://*.iq.com/*" ],
+      "run_at": "document_end",
+      "world": "MAIN"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/twitcasting.js" ],
+      "matches": [ "*://*.twitcasting.tv/*" ],
+      "run_at": "document_end",
+      "world": "ISOLATED"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/bilibili.js" ],
+      "matches": [ "*://*.bilibili.tv/*", "*://*.bilibili.com/*" ],
+      "run_at": "document_end",
+      "world": "ISOLATED"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/bilibili_untrusted.js" ],
+      "matches": [ "*://*.bilibili.tv/*", "*://*.bilibili.com/*" ],
+      "run_at": "document_end",
+      "world": "MAIN"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/taiav.js" ],
+      "matches": [ "*://*.taiav.com/*" ],
+      "run_at": "document_end",
+      "world": "MAIN"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/osmosis.js" ],
+      "matches": [ "*://*.osmosis.org/*" ],
+      "run_at": "document_end",
+      "world": "ISOLATED"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/kick.js" ],
+      "matches": [ "*://*.kick.com/*" ],
+      "run_at": "document_end",
+      "world": "ISOLATED"
+   }, {
+      "all_frames": true,
+      "js": [ "injected/chaturbate.js" ],
+      "matches": [ "*://*.chaturbate.com/*", "*://*.chaturbate.eu/*", "*://*.chaturbate.global/*" ],
+      "run_at": "document_end",
+      "world": "ISOLATED"
+   }, {
+      "js": [ "injected/activate.js" ],
+      "matches": [ "https://v10.downloadhelper.net/activate*", "https://app.v10.downloadhelper.net/activate*" ],
+      "run_at": "document_start",
+      "world": "ISOLATED"
+   }, {
+      "js": [ "injected/changelog.js" ],
+      "matches": [ "https://v10.downloadhelper.net/changelog*", "https://app.v10.downloadhelper.net/changelog*" ],
+      "run_at": "document_end",
+      "world": "ISOLATED"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' 'wasm-unsafe-eval'"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "homepage_url": "https://downloadhelper.net",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "bitmaps/logo-128-color.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqm/Cdcx4ikjVJbadUGpwrgJXdkc6Is8smuMiuAQbzgOg0cETVxuAY55UxgCxsh3lu4Os0RFK11bMBhu79Jbwv8tyml6mFGLLncLU2dFPZwnZWnIt5U+KC+uOvjryOacIPLxS/PeF2sXScNd0QJg/wTyl5WIizFtbcM3ZmFDFsj39FuUoH/OhO1Ux1/4Xn6dbSRb5F6qgkS2CU9ptTPQz0NJNaEmbL7vnWQkl2C8N4SjlDpRf/lC5r72Ow16hmbNmCGRhbxjPF0Dm+EO2uyF6dBw4n9V8BjBXQ7AdL5J3k4dXJk/oIOD2GQJsGyHK6TobNPPjy6W7bpPBtSfesIXS+wIDAQAB",
+   "manifest_version": 3,
+   "name": ";)",
+   "optional_permissions": [ "browsingData", "downloads.open" ],
+   "permissions": [ "tabs", "offscreen", "downloads", "sidePanel", "webRequest", "webNavigation", "scripting", "declarativeNetRequest", "storage", "notifications", "contextMenus", "unlimitedStorage" ],
+   "side_panel": {
+      "default_icon": {
+         "128": "bitmaps/logo-128-color.png"
+      },
+      "default_path": "/content/sidebar.html",
+      "default_title": ";)"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "10.2.40.2"
+}
